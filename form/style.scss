@@ -1,0 +1,139 @@
+@import "../jArticle0/style.scss";
+
+body .sContainer {
+  .title{
+    display: flex;
+    justify-content: space-between;
+    overflow: unset;
+    >select,>input{
+      width: 40%;border-radius: 10px;
+      text-align: center;
+      outline: unset;
+      padding: 8px;
+
+}
+  }
+    .diagram .level1 p, .diagram .docotora p{
+        padding-top: 29px;
+    }
+    [contentEditable] {
+        cursor: text !important;
+        background-color: white !important;
+        border: dotted black 3px;
+        color: black !important;
+        display: inline-block;
+        min-width: 50%;
+        padding-right: 5px;
+      }
+  section {
+      position: relative;
+      >.fa-trash-can{
+          
+          font-size: 150%;
+      }
+    h3 {
+      padding-left: 65px;
+      position: relative;
+    }
+    p {
+        padding-top: 40px;
+      position: relative;
+      
+    }
+    >p .fa-trash-can,
+    >p .fa-floppy-disk,
+    >p .fa-pen-to-square {
+        top: 10px;
+      }
+    i {z-index: 2;
+        position: absolute;
+      cursor: pointer;
+      font-size: 110%;text-shadow: 1px 1px wheat;
+      top: 10px;
+    }
+    .fa-trash-can {
+      left: 45px;
+      color: red;
+    }
+    .fa-pen-to-square,.fa-floppy-disk {
+      color: green;
+      left: 10px;
+    }
+    .fa-floppy-disk{
+        color: goldenrod;
+    }
+  }
+}
+.level1 ,.level2,.level3{
+    position: relative;
+}
+
+
+
+#confirm,#wrong{
+    z-index: 8;
+position: fixed;
+top: 50%;
+left: 50%;
+display: none;
+transform: translate(-50%,-50%);
+background-color: white;
+padding: 20px;
+width: 80%;
+max-width: 500px;
+border: 1px var(--text-c-2) solid;
+border-radius: 10px;
+text-align: center;
+font-size: 26px;
+>div{
+    align-items: center;
+justify-content: center;
+margin: 20px;
+    display: flex;
+    flex-flow: row;
+    column-gap: 20px;
+    >button{
+        border-radius: 10px;
+        padding: 10px 20px;
+        font-size: 20px;
+        font-weight: 700;
+    }
+    #delete{
+        color: white;
+        background-color: var(--red-L);
+        &:hover{
+            background-color: var(--red-L2);
+        }
+    }
+}
+}
+body .diagram  .add h4{
+    text-align: center;
+    color: black;
+}
+form{text-align: center;
+    margin-bottom: 40px;
+    button{
+        background-color: var(--green);
+        font-weight: 900; padding: 10px 20px;
+        border-radius: 10px;
+        border: outset;
+        &:hover{
+            background-color: green;
+           
+        }
+    }
+}
+
+#addSection{
+    margin: 40px auto;
+    width: 50%;
+    min-width: 200px;
+    cursor: pointer;
+    background-color: white;
+    padding: 30px;
+    text-align: center;
+    font-size: 40px;
+    border: dashed black 3px;
+    border-radius: 12px;
+}

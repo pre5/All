@@ -1,0 +1,3265 @@
+[
+  {
+    "filiere": "MEDECINE",
+    "ETBs": [
+      { "ETB": "RECRUTEMENT NATIONAL", "moy": ["15.86", "16.75", "17.91"] }
+    ]
+  },
+  {
+    "filiere": "PHARMACIE",
+    "ETBs": [
+      { "ETB": "RECRUTEMENT NATIONAL", "moy": ["15.52", "16.23", "17.52"] }
+    ]
+  },
+  {
+    "filiere": "MEDECINE DENTAIRE",
+    "ETBs": [
+      { "ETB": "RECRUTEMENT NATIONAL", "moy": ["15.82", "16.69", "17.85"] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES ET TECHNOLOGIES",
+    "ETBs": [
+      { "ETB": "UNIV. ADRAR", "moy": ["7.80", "8.97", ""] },
+      { "ETB": "UNIV. CHLEF", "moy": ["8.46", "9.12", ""] },
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["7.63", "9.03", ""] },
+      { "ETB": "UNIV. OUM EL BOUAGHI", "moy": ["7.95", "8.89", ""] },
+      { "ETB": "UNIV. BATNA 2", "moy": ["9.79", "10.45", ""] },
+      { "ETB": "UNIV. BEJAIA", "moy": ["7.67", "8.28", ""] },
+      { "ETB": "UNIV. BISKRA", "moy": ["7.58", "8.63", ""] },
+      { "ETB": "UNIV. BECHAR", "moy": ["8.00", "9.02", ""] },
+      { "ETB": "UNIV. BLIDA 1", "moy": ["7.46", "8.65", ""] },
+      { "ETB": "UNIV BOUIRA", "moy": ["9.51", "10.16", ""] },
+      { "ETB": "UNIV. TAMANGHASSET", "moy": ["8.35", "9.12", ""] },
+      { "ETB": "UNIV. TEBESSA", "moy": ["7.64", "9.00", ""] },
+      { "ETB": "C. UNIV MAGHNIA", "moy": ["8.05", "8.78", ""] },
+      { "ETB": "UNIV. TLEMCEN", "moy": ["8.10", "8.68", ""] },
+      { "ETB": "UNIV. TIARET", "moy": ["8.17", "9.02", ""] },
+      { "ETB": "UNIV. TIZI OUZOU", "moy": ["7.24", "9.01", ""] },
+      { "ETB": "USTHB", "moy": ["11.90", "12.73", ""] },
+      { "ETB": "UNIV. DJELFA", "moy": ["8.22", "9.13", ""] },
+      { "ETB": "UNIV. JIJEL", "moy": ["7.78", "8.29", ""] },
+      { "ETB": "UNIV. SETIF 1", "moy": ["8.88", "9.50", ""] },
+      { "ETB": "UNIV. SAIDA", "moy": ["7.95", "8.89", ""] },
+      { "ETB": "UNIV. SKIKDA", "moy": ["10.55", "11.29", ""] },
+      { "ETB": "UNIV. SIDI BEL ABBES", "moy": ["7.50", "8.84", ""] },
+      { "ETB": "UNIV. ANNABA", "moy": ["9.90", "10.59", ""] },
+      { "ETB": "UNIV. GUELMA", "moy": ["7.68", "8.82", ""] },
+      { "ETB": "UNIV. CONSTANTINE 1", "moy": ["10.08", "10.77", ""] },
+      {
+        "ETB": "UNIV. CONSTANTINE 3 (GENIE DES PROCEDES)",
+        "moy": ["11.65", "12.46", ""]
+      },
+      { "ETB": "UNIV. MEDEA", "moy": ["7.95", "8.59", ""] },
+      { "ETB": "UNIV. MOSTAGANEM", "moy": ["8.91", "9.50", ""] },
+      { "ETB": "UNIV. MSILA", "moy": ["7.64", "9.10", ""] },
+      { "ETB": "UNIV. MASCARA", "moy": ["10.24", "10.96", ""] },
+      { "ETB": "UNIV. OUARGLA", "moy": ["9.09", "9.70", ""] },
+      { "ETB": "U.S.T.O. (ORAN)", "moy": ["7.21", "8.60", ""] },
+      { "ETB": "UNIV. ORAN 1", "moy": ["7.42", "8.61", ""] },
+      { "ETB": "C. UNIV. EL BAYADH", "moy": ["7.18", "8.91", ""] },
+      { "ETB": "UNIV BORDJ BOU ARRERIDJ", "moy": ["7.96", "8.62", ""] },
+      { "ETB": "UNIV. BOUMERDES", "moy": ["10.72", "11.47", ""] },
+      { "ETB": "UNIV. TISSEMSILT", "moy": ["7.81", "9.12", ""] },
+      { "ETB": "UNIV EL OUED", "moy": ["7.90", "9.06", ""] },
+      { "ETB": "UNIV KHENCHELA", "moy": ["8.28", "8.86", ""] },
+      { "ETB": "UNIV SOUK AHRAS", "moy": ["7.94", "9.07", ""] },
+      { "ETB": "C. UNIV. TIPAZA", "moy": ["9.63", "10.32", ""] },
+      { "ETB": "C. UNIV MILA", "moy": ["7.92", "9.09", ""] },
+      { "ETB": "UNIV. KHEMIS MILIANA", "moy": ["8.12", "8.76", ""] },
+      { "ETB": "C. UNIV. NAAMA", "moy": ["7.80", "8.62", ""] },
+      { "ETB": "UNIV. AIN TEMOUCHENT", "moy": ["7.74", "9.21", ""] },
+      { "ETB": "UNIV. GHARDAIA", "moy": ["7.48", "8.95", ""] },
+      { "ETB": "UNIV. RELIZANE", "moy": ["9.07", "9.65", ""] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES DE LA MATIERE",
+    "ETBs": [
+      { "ETB": "UNIV. ADRAR", "moy": ["8.62", "", ""] },
+      { "ETB": "UNIV. CHLEF", "moy": ["7.33", "", ""] },
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["8.57", "", ""] },
+      { "ETB": "UNIV. OUM EL BOUAGHI", "moy": ["7.71", "", ""] },
+      { "ETB": "UNIV. BATNA 1", "moy": ["9.55", "", ""] },
+      { "ETB": "UNIV. BEJAIA", "moy": ["8.31", "", ""] },
+      { "ETB": "UNIV. BISKRA", "moy": ["8.11", "", ""] },
+      { "ETB": "UNIV. BECHAR", "moy": ["8.55", "", ""] },
+      { "ETB": "UNIV. BLIDA 1", "moy": ["7.74", "", ""] },
+      { "ETB": "UNIV BOUIRA", "moy": ["7.71", "", ""] },
+      { "ETB": "UNIV. TAMANGHASSET", "moy": ["8.83", "", ""] },
+      { "ETB": "UNIV. TEBESSA", "moy": ["8.51", "", ""] },
+      { "ETB": "UNIV. TLEMCEN", "moy": ["8.34", "", ""] },
+      { "ETB": "UNIV. TIARET (+ A. SOUGHEUR)", "moy": ["7.68", "", ""] },
+      { "ETB": "UNIV. TIZI OUZOU", "moy": ["8.44", "", ""] },
+      { "ETB": "UNIV. ALGER 1", "moy": ["11.88", "", ""] },
+      { "ETB": "UNIV. DJELFA", "moy": ["7.62", "", ""] },
+      { "ETB": "UNIV. JIJEL", "moy": ["8.65", "", ""] },
+      { "ETB": "UNIV. SETIF 1", "moy": ["7.04", "", ""] },
+      { "ETB": "UNIV. SAIDA", "moy": ["8.88", "", ""] },
+      { "ETB": "UNIV. SKIKDA", "moy": ["7.92", "", ""] },
+      { "ETB": "UNIV. SIDI BEL ABBES", "moy": ["8.80", "", ""] },
+      { "ETB": "UNIV. ANNABA", "moy": ["7.30", "", ""] },
+      { "ETB": "UNIV. GUELMA", "moy": ["8.27", "", ""] },
+      { "ETB": "UNIV. CONSTANTINE 1", "moy": ["8.57", "", ""] },
+      { "ETB": "UNIV. MEDEA", "moy": ["8.33", "", ""] },
+      { "ETB": "UNIV. MOSTAGANEM", "moy": ["7.76", "", ""] },
+      { "ETB": "UNIV. MSILA", "moy": ["8.45", "", ""] },
+      { "ETB": "UNIV. MASCARA", "moy": ["7.59", "", ""] },
+      { "ETB": "UNIV. OUARGLA", "moy": ["7.60", "", ""] },
+      { "ETB": "U.S.T.O. (ORAN)", "moy": ["8.39", "", ""] },
+      { "ETB": "UNIV. ORAN 1", "moy": ["8.33", "", ""] },
+      { "ETB": "UNIV BORDJ BOU ARRERIDJ", "moy": ["8.55", "", ""] },
+      { "ETB": "UNIV. BOUMERDES", "moy": ["7.39", "", ""] },
+      { "ETB": "UNIV. EL TARF", "moy": ["7.40", "", ""] },
+      { "ETB": "UNIV. TISSEMSILT", "moy": ["8.83", "", ""] },
+      { "ETB": "UNIV EL OUED", "moy": ["8.80", "", ""] },
+      { "ETB": "UNIV KHENCHELA", "moy": ["8.10", "", ""] },
+      { "ETB": "UNIV SOUK AHRAS", "moy": ["7.97", "", ""] },
+      { "ETB": "UNIV. KHEMIS MILIANA", "moy": ["8.11", "", ""] },
+      { "ETB": "UNIV. AIN TEMOUCHENT", "moy": ["8.52", "", ""] },
+      { "ETB": "UNIV. GHARDAIA", "moy": ["8.74", "", ""] },
+      { "ETB": "UNIV. RELIZANE", "moy": ["8.16", "", ""] }
+    ]
+  },
+  {
+    "filiere": "MATHEMATIQUES / INFORMATIQUE",
+    "ETBs": [
+      { "ETB": "UNIV. ADRAR", "moy": ["10.92", "9.68", ""] },
+      { "ETB": "UNIV. CHLEF", "moy": ["10.29", "8.62", ""] },
+      { "ETB": "C. UNIV. AFLOU", "moy": ["10.87", "9.13", ""] },
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["9.61", "9.27", ""] },
+      { "ETB": "UNIV. OUM EL BOUAGHI", "moy": ["9.52", "8.96", ""] },
+      { "ETB": "C . UNIV BARIKA", "moy": ["9.19", "9.25", ""] },
+      { "ETB": "UNIV. BATNA 2", "moy": ["11.46", "12.25", ""] },
+      { "ETB": "UNIV. BEJAIA", "moy": ["12.34", "13.15", ""] },
+      { "ETB": "UNIV. BISKRA", "moy": ["10.23", "9.95", ""] },
+      { "ETB": "UNIV. BECHAR", "moy": ["12.63", "9.00", ""] },
+      { "ETB": "UNIV. BLIDA 1", "moy": ["12.78", "13.65", ""] },
+      { "ETB": "UNIV BOUIRA", "moy": ["10.63", "11.15", ""] },
+      { "ETB": "UNIV. TAMANGHASSET", "moy": ["11.47", "9.63", ""] },
+      { "ETB": "UNIV. TEBESSA", "moy": ["9.86", "9.26", ""] },
+      { "ETB": "UNIV. TLEMCEN", "moy": ["9.66", "9.02", ""] },
+      { "ETB": "UNIV. TIARET", "moy": ["10.49", "11.19", ""] },
+      { "ETB": "UNIV. TIZI OUZOU", "moy": ["12.05", "12.89", ""] },
+      { "ETB": "UNIV. ALGER 1", "moy": ["14.31", "15.31", ""] },
+      { "ETB": "USTHB", "moy": ["15.53", "16.31", ""] },
+      { "ETB": "UNIV. DJELFA", "moy": ["11.91", "12.61", ""] },
+      { "ETB": "UNIV. JIJEL", "moy": ["8.95", "9.35", ""] },
+      { "ETB": "UNIV. SETIF 1", "moy": ["13.10", "13.88", ""] },
+      { "ETB": "UNIV. SAIDA", "moy": ["10.00", "9.02", ""] },
+      { "ETB": "UNIV. SKIKDA", "moy": ["10.14", "10.81", ""] },
+      { "ETB": "UNIV. SIDI BEL ABBES", "moy": ["12.27", "9.14", ""] },
+      { "ETB": "UNIV. ANNABA", "moy": ["11.77", "12.43", ""] },
+      { "ETB": "UNIV. GUELMA", "moy": ["10.18", "9.31", ""] },
+      { "ETB": "UNIV. MEDEA", "moy": ["9.52", "9.07", ""] },
+      { "ETB": "UNIV. MOSTAGANEM", "moy": ["11.11", "8.53", ""] },
+      { "ETB": "UNIV. MSILA", "moy": ["10.66", "11.09", ""] },
+      { "ETB": "UNIV. MASCARA", "moy": ["10.19", "8.99", ""] },
+      { "ETB": "UNIV. OUARGLA", "moy": ["8.99", "8.65", ""] },
+      { "ETB": "U.S.T.O. (ORAN)", "moy": ["12.31", "13.05", ""] },
+      { "ETB": "UNIV. ORAN 1", "moy": ["10.09", "10.65", ""] },
+      { "ETB": "C. UNIV ILLIZI", "moy": ["--", "9.99", ""] },
+      { "ETB": "UNIV BORDJ BOU ARRERIDJ", "moy": ["11.10", "8.80", ""] },
+      { "ETB": "UNIV. BOUMERDES", "moy": ["12.62", "13.50", ""] },
+      { "ETB": "UNIV. EL TARF", "moy": ["9.89", "10.59", ""] },
+      { "ETB": "C. UNIV. TINDOUF", "moy": ["15.86", "11.10", ""] },
+      { "ETB": "UNIV EL OUED", "moy": ["9.78", "9.60", ""] },
+      { "ETB": "UNIV KHENCHELA", "moy": ["10.49", "9.28", ""] },
+      { "ETB": "UNIV SOUK AHRAS", "moy": ["11.08", "11.87", ""] },
+      { "ETB": "C. UNIV MILA", "moy": ["9.51", "9.53", ""] },
+      { "ETB": "UNIV. KHEMIS MILIANA", "moy": ["10.20", "10.90", ""] },
+      { "ETB": "C. UNIV. NAAMA", "moy": ["10.86", "9.52", ""] },
+      { "ETB": "UNIV. AIN TEMOUCHENT", "moy": ["10.92", "9.64", ""] },
+      { "ETB": "UNIV. GHARDAIA", "moy": ["10.35", "8.94", ""] },
+      { "ETB": "UNIV. RELIZANE", "moy": ["9.12", "8.97", ""] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES DE LA NATURE ET DE LA VIE",
+    "ETBs": [
+      { "ETB": "UNIV. ADRAR", "moy": ["7.79", "9.19", "9.80"] },
+      { "ETB": "UNIV. CHLEF", "moy": ["9.72", "10.53", "11.08"] },
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["7.57", "10.00", "9.65"] },
+      { "ETB": "UNIV. OUM EL BOUAGHI", "moy": ["9.73", "10.36", "11.09"] },
+      {
+        "ETB": "UNIV. BATNA 1 (SCIENCES AGRONOMIQUES)",
+        "moy": ["8.15", "9.42", "9.55"]
+      },
+      {
+        "ETB": "UNIV. BATNA 2 (SCIENCES BIOLOGIQUES)",
+        "moy": ["11.08", "11.80", "13.98"]
+      },
+      { "ETB": "UNIV. BEJAIA", "moy": ["7.93", "8.35", "9.55"] },
+      { "ETB": "UNIV. BISKRA", "moy": ["7.17", "8.98", "9.92"] },
+      { "ETB": "UNIV. BECHAR", "moy": ["8.03", "--", "10.12"] },
+      { "ETB": "UNIV. BLIDA 1", "moy": ["7.86", "8.17", "9.52"] },
+      { "ETB": "UNIV BOUIRA", "moy": ["9.07", "10.18", "10.35"] },
+      { "ETB": "UNIV. TAMANGHASSET", "moy": ["8.18", "--", "--"] },
+      { "ETB": "UNIV. TEBESSA", "moy": ["7.65", "8.81", "9.74"] },
+      { "ETB": "UNIV. TLEMCEN", "moy": ["9.77", "10.84", "11.14"] },
+      {
+        "ETB": "UNIV. TIARET (+A. KSAR CHELLALA)",
+        "moy": ["7.56", "9.92", "9.50"]
+      },
+      { "ETB": "UNIV. TIZI OUZOU", "moy": ["7.86", "9.69", "9.50"] },
+      { "ETB": "UNIV. ALGER 1", "moy": ["11.51", "12.29", "13.52"] },
+      { "ETB": "USTHB", "moy": ["10.52", "11.26", "12.00"] },
+      { "ETB": "UNIV. DJELFA", "moy": ["7.87", "9.02", "9.51"] },
+      { "ETB": "UNIV. JIJEL", "moy": ["7.79", "7.85", "9.65"] },
+      { "ETB": "UNIV. SETIF 1", "moy": ["10.67", "11.37", "12.17"] },
+      { "ETB": "UNIV. SAIDA", "moy": ["7.85", "9.20", "9.50"] },
+      { "ETB": "UNIV. SKIKDA", "moy": ["9.43", "10.13", "10.76"] },
+      { "ETB": "UNIV. SIDI BEL ABBES", "moy": ["7.89", "8.97", "9.58"] },
+      { "ETB": "UNIV. ANNABA", "moy": ["8.01", "8.48", "9.51"] },
+      { "ETB": "UNIV. GUELMA", "moy": ["8.29", "9.77", "9.58"] },
+      { "ETB": "UNIV. CONSTANTINE 1", "moy": ["10.65", "11.41", "12.17"] },
+      { "ETB": "UNIV. MEDEA", "moy": ["8.02", "11.11", "9.77"] },
+      { "ETB": "UNIV. MOSTAGANEM", "moy": ["8.52", "10.31", "9.79"] },
+      { "ETB": "UNIV. MSILA", "moy": ["8.22", "8.11", "9.64"] },
+      { "ETB": "UNIV. MASCARA", "moy": ["8.55", "9.09", "9.72"] },
+      { "ETB": "UNIV. OUARGLA", "moy": ["8.32", "8.55", "9.58"] },
+      { "ETB": "U.S.T.O. (ORAN)", "moy": ["10.16", "12.69", "11.79"] },
+      { "ETB": "UNIV. ORAN 1", "moy": ["7.89", "8.27", "9.53"] },
+      { "ETB": "C. UNIV. EL BAYADH", "moy": ["8.53", "10.06", "9.62"] },
+      { "ETB": "UNIV BORDJ BOU ARRERIDJ", "moy": ["8.37", "9.89", "10.39"] },
+      { "ETB": "UNIV. BOUMERDES", "moy": ["8.77", "9.35", "10.00"] },
+      { "ETB": "UNIV. EL TARF", "moy": ["8.02", "9.01", "9.50"] },
+      { "ETB": "UNIV. TISSEMSILT", "moy": ["8.29", "11.44", "10.30"] },
+      { "ETB": "UNIV EL OUED", "moy": ["9.29", "10.21", "10.91"] },
+      { "ETB": "UNIV KHENCHELA", "moy": ["8.57", "8.57", "10.74"] },
+      { "ETB": "UNIV SOUK AHRAS", "moy": ["8.68", "--", "9.98"] },
+      { "ETB": "C. UNIV. TIPAZA", "moy": ["10.74", "11.70", "12.53"] },
+      { "ETB": "C. UNIV MILA", "moy": ["8.59", "--", "9.59"] },
+      { "ETB": "UNIV. KHEMIS MILIANA", "moy": ["9.94", "11.05", "11.91"] },
+      { "ETB": "C. UNIV. NAAMA", "moy": ["8.62", "10.88", "10.50"] },
+      { "ETB": "UNIV. AIN TEMOUCHENT", "moy": ["8.17", "9.21", "10.50"] },
+      { "ETB": "UNIV. GHARDAIA", "moy": ["8.33", "11.86", "10.47"] },
+      { "ETB": "UNIV. RELIZANE", "moy": ["7.93", "10.08", "9.51"] }
+    ]
+  },
+  {
+    "filiere": "LANGUE ET LITTERATURE ARABES",
+    "ETBs": [
+      { "ETB": "UNIV. ADRAR", "moy": ["9.66", "10.42", ""] },
+      { "ETB": "UNIV. CHLEF", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "C. UNIV. AFLOU", "moy": ["9.50", "9.56", ""] },
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["9.50", "9.53", ""] },
+      { "ETB": "UNIV. OUM EL BOUAGHI", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "C . UNIV BARIKA", "moy": ["9.57", "9.53", ""] },
+      { "ETB": "UNIV. BATNA 1", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV. BEJAIA", "moy": ["9.50", "9.53", ""] },
+      { "ETB": "UNIV. BISKRA", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV. BECHAR", "moy": ["9.50", "9.55", ""] },
+      { "ETB": "UNIV. BLIDA 2", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV BOUIRA", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV. TAMANGHASSET", "moy": ["9.50", "9.60", ""] },
+      { "ETB": "UNIV. TEBESSA", "moy": ["9.50", "10.17", ""] },
+      { "ETB": "C. UNIV MAGHNIA", "moy": ["9.50", "9.56", ""] },
+      { "ETB": "UNIV. TLEMCEN", "moy": ["9.50", "9.50", ""] },
+      {
+        "ETB": "UNIV. TIARET (+A. KSAR CHELLALA)",
+        "moy": ["9.50", "9.50", ""]
+      },
+      { "ETB": "UNIV. TIZI OUZOU", "moy": ["9.50", "9.52", ""] },
+      { "ETB": "UNIV. ALGER 2", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV. DJELFA", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV. JIJEL", "moy": ["9.50", "9.79", ""] },
+      { "ETB": "UNIV. SETIF 2", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV. SAIDA", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV. SKIKDA", "moy": ["9.51", "9.50", ""] },
+      { "ETB": "UNIV. SIDI BEL ABBES", "moy": ["9.50", "9.67", ""] },
+      { "ETB": "UNIV. ANNABA", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV. GUELMA", "moy": ["9.50", "9.53", ""] },
+      { "ETB": "UNIV. CONSTANTINE 1", "moy": ["9.50", "10.10", ""] },
+      {
+        "ETB": "UNIV. SCI ISLAMIQUES EMIR (E.A.K)",
+        "moy": ["9.98", "10.62", ""]
+      },
+      { "ETB": "UNIV. MEDEA", "moy": ["9.50", "9.73", ""] },
+      { "ETB": "UNIV. MOSTAGANEM", "moy": ["9.50", "9.51", ""] },
+      { "ETB": "UNIV. MSILA", "moy": ["9.50", "9.51", ""] },
+      { "ETB": "UNIV. MASCARA", "moy": ["9.50", "9.92", ""] },
+      { "ETB": "UNIV. OUARGLA", "moy": ["9.50", "9.54", ""] },
+      { "ETB": "UNIV. ORAN 1", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "C. UNIV. EL BAYADH", "moy": ["9.50", "9.65", ""] },
+      { "ETB": "UNIV BORDJ BOU ARRERIDJ", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV. BOUMERDES", "moy": ["9.52", "9.50", ""] },
+      { "ETB": "UNIV. EL TARF", "moy": ["9.50", "9.51", ""] },
+      { "ETB": "C. UNIV. TINDOUF", "moy": ["9.50", "9.66", ""] },
+      { "ETB": "UNIV. TISSEMSILT", "moy": ["9.50", "9.83", ""] },
+      { "ETB": "UNIV EL OUED", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV KHENCHELA", "moy": ["9.50", "9.53", ""] },
+      { "ETB": "UNIV SOUK AHRAS", "moy": ["9.50", "9.84", ""] },
+      { "ETB": "C. UNIV. TIPAZA", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "C. UNIV MILA", "moy": ["9.51", "9.50", ""] },
+      { "ETB": "UNIV. KHEMIS MILIANA", "moy": ["9.52", "9.50", ""] },
+      { "ETB": "C. UNIV. NAAMA", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV. AIN TEMOUCHENT", "moy": ["9.50", "9.53", ""] },
+      { "ETB": "UNIV. GHARDAIA", "moy": ["9.50", "9.53", ""] },
+      { "ETB": "UNIV. RELIZANE", "moy": ["9.50", "9.50", ""] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES ECONOMIQUES, DE GESTION ET COMMERCIALES",
+    "ETBs": [
+      { "ETB": "UNIV. ADRAR", "moy": ["9.50", "10.83", "9.89"] },
+      { "ETB": "UNIV. CHLEF", "moy": ["9.83", "10.84", "11.22"] },
+      { "ETB": "C. UNIV. AFLOU", "moy": ["9.52", "9.93", "9.50"] },
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["9.50", "9.80", "9.55"] },
+      { "ETB": "UNIV. OUM EL BOUAGHI", "moy": ["9.50", "10.07", "10.71"] },
+      { "ETB": "C . UNIV BARIKA", "moy": ["9.65", "9.98", "9.50"] },
+      { "ETB": "UNIV. BATNA 1", "moy": ["9.50", "10.05", "10.72"] },
+      { "ETB": "UNIV. BEJAIA", "moy": ["9.50", "10.17", "10.17"] },
+      { "ETB": "UNIV. BISKRA", "moy": ["9.50", "10.05", "10.23"] },
+      { "ETB": "UNIV. BECHAR", "moy": ["9.51", "10.05", "9.51"] },
+      { "ETB": "UNIV. BLIDA 2", "moy": ["9.91", "10.66", "11.30"] },
+      { "ETB": "UNIV BOUIRA", "moy": ["10.25", "--", "11.68"] },
+      { "ETB": "UNIV. TAMANGHASSET", "moy": ["9.50", "--", "9.55"] },
+      { "ETB": "UNIV. TEBESSA", "moy": ["9.50", "9.87", "9.50"] },
+      { "ETB": "C. UNIV MAGHNIA", "moy": ["9.51", "9.86", "9.50"] },
+      { "ETB": "UNIV. TLEMCEN", "moy": ["9.50", "10.21", "10.83"] },
+      {
+        "ETB": "UNIV. TIARET (+A. KSAR CHELLALA)",
+        "moy": ["9.50", "9.66", "10.24"]
+      },
+      { "ETB": "UNIV. TIZI OUZOU", "moy": ["9.53", "9.56", "9.50"] },
+      { "ETB": "UNIV. ALGER 3", "moy": ["9.50", "9.87", "10.55"] },
+      { "ETB": "UNIV. DJELFA", "moy": ["9.50", "9.66", "9.83"] },
+      { "ETB": "UNIV. JIJEL", "moy": ["9.50", "9.68", "10.28"] },
+      { "ETB": "UNIV. SETIF 1", "moy": ["9.63", "10.34", "10.98"] },
+      { "ETB": "UNIV. SAIDA", "moy": ["9.50", "9.83", "9.77"] },
+      { "ETB": "UNIV. SKIKDA", "moy": ["9.50", "9.51", "9.87"] },
+      { "ETB": "UNIV. SIDI BEL ABBES", "moy": ["9.50", "12.34", "9.78"] },
+      { "ETB": "UNIV. ANNABA", "moy": ["10.13", "11.66", "11.54"] },
+      { "ETB": "UNIV. GUELMA", "moy": ["9.50", "9.59", "9.50"] },
+      { "ETB": "UNIV. CONSTANTINE 2", "moy": ["10.25", "10.97", "11.70"] },
+      {
+        "ETB": "UNIV. SCI ISLAMIQUES EMIR (E.A.K)",
+        "moy": ["9.88", "10.53", "11.26"]
+      },
+      { "ETB": "UNIV. MEDEA", "moy": ["9.50", "9.50", "9.50"] },
+      { "ETB": "UNIV. MOSTAGANEM", "moy": ["9.50", "10.66", "10.73"] },
+      { "ETB": "UNIV. MSILA", "moy": ["9.51", "9.50", "9.50"] },
+      { "ETB": "UNIV. MASCARA", "moy": ["9.78", "10.45", "11.15"] },
+      { "ETB": "UNIV. OUARGLA", "moy": ["9.50", "9.59", "9.50"] },
+      { "ETB": "UNIV. ORAN 2", "moy": ["10.01", "10.84", "11.42"] },
+      { "ETB": "C. UNIV. EL BAYADH", "moy": ["9.51", "10.14", "10.17"] },
+      { "ETB": "C. UNIV ILLIZI", "moy": ["9.50", "10.58", "9.50"] },
+      { "ETB": "UNIV BORDJ BOU ARRERIDJ", "moy": ["9.51", "10.09", "10.06"] },
+      { "ETB": "UNIV. BOUMERDES", "moy": ["9.63", "10.36", "10.98"] },
+      { "ETB": "UNIV. EL TARF", "moy": ["9.66", "10.93", "11.03"] },
+      { "ETB": "C. UNIV. TINDOUF", "moy": ["9.51", "--", "9.57"] },
+      { "ETB": "UNIV. TISSEMSILT", "moy": ["9.51", "--", "9.50"] },
+      { "ETB": "UNIV EL OUED", "moy": ["9.50", "9.68", "9.50"] },
+      { "ETB": "UNIV KHENCHELA", "moy": ["9.51", "10.14", "9.72"] },
+      { "ETB": "UNIV SOUK AHRAS", "moy": ["9.51", "9.50", "9.50"] },
+      { "ETB": "C. UNIV. TIPAZA", "moy": ["9.50", "9.91", "10.44"] },
+      { "ETB": "C. UNIV MILA", "moy": ["9.50", "10.69", "9.50"] },
+      { "ETB": "UNIV. KHEMIS MILIANA", "moy": ["9.50", "9.95", "10.05"] },
+      { "ETB": "C. UNIV. NAAMA", "moy": ["9.51", "11.28", "10.38"] },
+      { "ETB": "UNIV. AIN TEMOUCHENT", "moy": ["9.50", "12.59", "9.50"] },
+      { "ETB": "UNIV. GHARDAIA", "moy": ["9.50", "9.68", "9.50"] },
+      { "ETB": "UNIV. RELIZANE", "moy": ["9.50", "10.78", "10.03"] }
+    ]
+  },
+  {
+    "filiere": "DROIT",
+    "ETBs": [
+      { "ETB": "UNIV. ADRAR", "moy": ["10.67", "11.40", "--"] },
+      { "ETB": "UNIV. CHLEF", "moy": ["9.91", "10.62", "11.48"] },
+      { "ETB": "C. UNIV. AFLOU", "moy": ["10.50", "11.31", "13.24"] },
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["9.50", "9.50", "10.39"] },
+      { "ETB": "UNIV. OUM EL BOUAGHI", "moy": ["9.89", "10.53", "11.55"] },
+      { "ETB": "C . UNIV BARIKA", "moy": ["9.50", "9.50", "9.59"] },
+      { "ETB": "UNIV. BATNA 1", "moy": ["9.78", "10.42", "11.35"] },
+      { "ETB": "UNIV. BEJAIA", "moy": ["9.50", "9.56", "9.95"] },
+      { "ETB": "UNIV. BISKRA", "moy": ["9.50", "10.02", "11.87"] },
+      { "ETB": "UNIV. BECHAR", "moy": ["9.50", "9.65", "11.70"] },
+      { "ETB": "UNIV. BLIDA 2", "moy": ["10.15", "10.83", "11.85"] },
+      { "ETB": "UNIV BOUIRA", "moy": ["9.91", "10.60", "11.33"] },
+      { "ETB": "UNIV. TAMANGHASSET", "moy": ["10.18", "10.95", "--"] },
+      { "ETB": "UNIV. TEBESSA", "moy": ["10.27", "10.93", "11.73"] },
+      { "ETB": "C. UNIV MAGHNIA", "moy": ["9.50", "9.57", "--"] },
+      { "ETB": "UNIV. TLEMCEN", "moy": ["9.76", "10.40", "11.67"] },
+      {
+        "ETB": "UNIV. TIARET (+ A.SOUGHEUR+A. KSAR\rCHELLALA)",
+        "moy": ["10.15", "10.83", "11.59"]
+      },
+      { "ETB": "UNIV. TIZI OUZOU", "moy": ["9.50", "9.68", "10.84"] },
+      { "ETB": "UNIV. ALGER 1", "moy": ["10.26", "10.93", "11.85"] },
+      { "ETB": "UNIV. DJELFA", "moy": ["9.60", "10.22", "11.12"] },
+      { "ETB": "UNIV. JIJEL", "moy": ["9.50", "9.50", "9.52"] },
+      { "ETB": "UNIV. SETIF 2", "moy": ["9.66", "10.29", "11.54"] },
+      { "ETB": "UNIV. SAIDA", "moy": ["10.07", "10.82", "12.91"] },
+      { "ETB": "UNIV. SKIKDA", "moy": ["9.50", "9.50", "9.50"] },
+      { "ETB": "UNIV. SIDI BEL ABBES", "moy": ["9.67", "10.41", "11.44"] },
+      { "ETB": "UNIV. ANNABA", "moy": ["9.50", "9.97", "10.76"] },
+      { "ETB": "UNIV. GUELMA", "moy": ["9.61", "10.25", "11.02"] },
+      { "ETB": "UNIV. CONSTANTINE 1", "moy": ["9.57", "10.20", "10.93"] },
+      { "ETB": "UNIV. MEDEA", "moy": ["10.24", "10.91", "11.68"] },
+      { "ETB": "UNIV. MOSTAGANEM", "moy": ["10.06", "10.81", "11.70"] },
+      { "ETB": "UNIV. MSILA", "moy": ["9.50", "9.52", "9.53"] },
+      { "ETB": "UNIV. MASCARA", "moy": ["10.11", "10.78", "12.04"] },
+      { "ETB": "UNIV. OUARGLA", "moy": ["9.56", "10.20", "11.06"] },
+      { "ETB": "UNIV. ORAN 2", "moy": ["10.31", "10.98", "12.30"] },
+      { "ETB": "C. UNIV. EL BAYADH", "moy": ["9.74", "10.40", "11.63"] },
+      { "ETB": "C. UNIV ILLIZI", "moy": ["9.50", "10.37", "--"] },
+      { "ETB": "UNIV BORDJ BOU ARRERIDJ", "moy": ["9.98", "10.72", "11.44"] },
+      { "ETB": "UNIV. BOUMERDES", "moy": ["9.50", "9.60", "10.24"] },
+      { "ETB": "UNIV. EL TARF", "moy": ["10.01", "10.65", "--"] },
+      { "ETB": "C. UNIV. TINDOUF", "moy": ["9.52", "9.59", "--"] },
+      { "ETB": "UNIV. TISSEMSILT", "moy": ["10.07", "10.95", "11.69"] },
+      { "ETB": "UNIV EL OUED", "moy": ["9.56", "10.25", "11.01"] },
+      { "ETB": "UNIV KHENCHELA", "moy": ["9.96", "10.61", "11.74"] },
+      { "ETB": "UNIV SOUK AHRAS", "moy": ["10.09", "10.79", "12.28"] },
+      { "ETB": "C. UNIV. TIPAZA", "moy": ["9.85", "10.51", "11.33"] },
+      { "ETB": "C. UNIV MILA", "moy": ["9.50", "9.50", "9.84"] },
+      { "ETB": "UNIV. KHEMIS MILIANA", "moy": ["9.50", "9.50", "9.60"] },
+      { "ETB": "C. UNIV. NAAMA", "moy": ["9.50", "9.57", "9.55"] },
+      { "ETB": "UNIV. AIN TEMOUCHENT", "moy": ["9.75", "10.64", "11.27"] },
+      { "ETB": "UNIV. GHARDAIA", "moy": ["9.50", "9.66", "11.18"] },
+      { "ETB": "UNIV. RELIZANE", "moy": ["10.14", "10.90", "12.39"] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES POLITIQUES",
+    "ETBs": [
+      { "ETB": "UNIV. ADRAR", "moy": ["10.50", "--", "--"] },
+      { "ETB": "UNIV. CHLEF", "moy": ["10.50", "10.90", "12.45"] },
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["10.50", "10.52", "--"] },
+      { "ETB": "UNIV. OUM EL BOUAGHI", "moy": ["10.57", "11.07", "--"] },
+      { "ETB": "UNIV. BATNA 1", "moy": ["10.54", "10.55", "10.50"] },
+      { "ETB": "UNIV. BISKRA", "moy": ["10.52", "15.06", "--"] },
+      { "ETB": "UNIV. BECHAR", "moy": ["10.55", "--", "--"] },
+      { "ETB": "UNIV. BLIDA 2", "moy": ["10.50", "10.52", "10.64"] },
+      { "ETB": "UNIV. TAMANGHASSET", "moy": ["10.50", "--", "--"] },
+      { "ETB": "UNIV. TEBESSA", "moy": ["10.50", "10.58", "--"] },
+      { "ETB": "UNIV. TLEMCEN", "moy": ["10.52", "10.65", "13.02"] },
+      { "ETB": "UNIV. TIARET", "moy": ["10.53", "10.52", "11.11"] },
+      { "ETB": "UNIV. TIZI OUZOU", "moy": ["10.50", "10.57", "11.41"] },
+      { "ETB": "UNIV. ALGER 3", "moy": ["10.50", "10.50", "10.83"] },
+      { "ETB": "UNIV. DJELFA", "moy": ["10.52", "10.82", "10.64"] },
+      { "ETB": "UNIV. JIJEL", "moy": ["10.53", "10.57", "--"] },
+      { "ETB": "UNIV. SETIF 2", "moy": ["10.51", "10.50", "10.79"] },
+      { "ETB": "UNIV. SAIDA", "moy": ["10.50", "10.57", "10.82"] },
+      { "ETB": "UNIV. SKIKDA", "moy": ["10.54", "10.68", "10.78"] },
+      { "ETB": "UNIV. SIDI BEL ABBES", "moy": ["10.53", "11.12", "10.52"] },
+      { "ETB": "UNIV. ANNABA", "moy": ["10.54", "10.54", "10.62"] },
+      { "ETB": "UNIV. GUELMA", "moy": ["10.57", "--", "--"] },
+      { "ETB": "UNIV. CONSTANTINE 3", "moy": ["10.50", "10.50", "10.62"] },
+      { "ETB": "UNIV. MOSTAGANEM", "moy": ["10.65", "10.55", "--"] },
+      { "ETB": "UNIV. MSILA", "moy": ["10.55", "11.09", "--"] },
+      { "ETB": "UNIV. MASCARA", "moy": ["10.81", "10.55", "10.63"] },
+      { "ETB": "UNIV. OUARGLA", "moy": ["10.62", "10.60", "--"] },
+      { "ETB": "UNIV. ORAN 2", "moy": ["10.50", "10.50", "10.97"] },
+      { "ETB": "UNIV. BOUMERDES", "moy": ["10.51", "10.53", "--"] },
+      { "ETB": "UNIV EL OUED", "moy": ["10.85", "11.96", "--"] },
+      { "ETB": "UNIV KHENCHELA", "moy": ["10.67", "10.55", "10.93"] },
+      { "ETB": "UNIV. KHEMIS MILIANA", "moy": ["10.75", "--", "--"] },
+      { "ETB": "UNIV. GHARDAIA", "moy": ["10.59", "--", "--"] },
+      { "ETB": "UNIV. RELIZANE", "moy": ["10.50", "10.73", "15.03"] }
+    ]
+  },
+  {
+    "filiere": "LANGUE ANGLAISE",
+    "ETBs": [
+      { "ETB": "UNIV. ADRAR", "moy": ["10.00", "10.01", "10.31"] },
+      { "ETB": "UNIV. CHLEF", "moy": ["12.22", "13.02", "13.95"] },
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["10.93", "11.71", "12.55"] },
+      { "ETB": "UNIV. OUM EL BOUAGHI", "moy": ["10.49", "11.19", "11.95"] },
+      { "ETB": "C . UNIV BARIKA", "moy": ["10.27", "10.17", "10.49"] },
+      { "ETB": "UNIV. BATNA 2", "moy": ["12.09", "13.13", "13.78"] },
+      { "ETB": "UNIV. BEJAIA", "moy": ["13.55", "14.43", "15.72"] },
+      { "ETB": "UNIV. BISKRA", "moy": ["10.06", "10.63", "11.39"] },
+      { "ETB": "UNIV. BECHAR", "moy": ["10.05", "10.31", "10.43"] },
+      { "ETB": "UNIV. BLIDA 2", "moy": ["12.79", "13.63", "14.58"] },
+      { "ETB": "UNIV BOUIRA", "moy": ["13.67", "15.05", "15.60"] },
+      { "ETB": "UNIV. TAMANGHASSET", "moy": ["10.10", "10.25", "10.64"] },
+      { "ETB": "UNIV. TEBESSA", "moy": ["11.53", "12.26", "13.07"] },
+      { "ETB": "C. UNIV MAGHNIA", "moy": ["11.69", "12.55", "13.32"] },
+      { "ETB": "UNIV. TLEMCEN", "moy": ["11.75", "12.52", "13.41"] },
+      { "ETB": "UNIV. TIARET", "moy": ["11.87", "12.69", "13.53"] },
+      { "ETB": "UNIV. TIZI OUZOU", "moy": ["12.70", "13.53", "14.51"] },
+      { "ETB": "UNIV. ALGER 2", "moy": ["12.44", "13.25", "14.21"] },
+      { "ETB": "UNIV. DJELFA", "moy": ["13.09", "13.94", "14.93"] },
+      { "ETB": "UNIV. JIJEL", "moy": ["12.36", "13.20", "14.12"] },
+      { "ETB": "UNIV. SETIF 2", "moy": ["12.80", "13.63", "14.59"] },
+      { "ETB": "UNIV. SAIDA", "moy": ["10.87", "11.71", "12.38"] },
+      { "ETB": "UNIV. SKIKDA", "moy": ["11.19", "11.89", "12.74"] },
+      { "ETB": "UNIV. SIDI BEL ABBES", "moy": ["11.62", "12.38", "13.23"] },
+      { "ETB": "UNIV. ANNABA", "moy": ["11.56", "12.40", "13.18"] },
+      { "ETB": "UNIV. GUELMA", "moy": ["11.47", "12.25", "13.05"] },
+      { "ETB": "UNIV. CONSTANTINE 1", "moy": ["11.47", "12.31", "13.09"] },
+      { "ETB": "UNIV. MEDEA", "moy": ["12.71", "13.55", "14.56"] },
+      { "ETB": "UNIV. MOSTAGANEM", "moy": ["11.75", "12.53", "13.40"] },
+      { "ETB": "UNIV. MSILA", "moy": ["11.81", "12.57", "13.43"] },
+      { "ETB": "UNIV. MASCARA", "moy": ["10.05", "10.09", "10.79"] },
+      { "ETB": "UNIV. OUARGLA", "moy": ["10.77", "11.44", "12.23"] },
+      { "ETB": "UNIV. ORAN 2", "moy": ["11.91", "12.67", "13.57"] },
+      { "ETB": "UNIV BORDJ BOU ARRERIDJ", "moy": ["11.73", "12.55", "13.39"] },
+      { "ETB": "UNIV. BOUMERDES", "moy": ["11.89", "12.73", "13.56"] },
+      { "ETB": "UNIV. EL TARF", "moy": ["10.79", "11.59", "12.35"] },
+      { "ETB": "UNIV EL OUED", "moy": ["11.18", "11.95", "12.69"] },
+      { "ETB": "UNIV KHENCHELA", "moy": ["10.73", "11.47", "12.21"] },
+      { "ETB": "UNIV SOUK AHRAS", "moy": ["11.93", "12.87", "13.62"] },
+      { "ETB": "C. UNIV MILA", "moy": ["11.49", "12.27", "13.07"] },
+      { "ETB": "UNIV. KHEMIS MILIANA", "moy": ["12.59", "13.45", "14.37"] },
+      { "ETB": "C. UNIV. NAAMA", "moy": ["10.65", "11.13", "11.90"] },
+      { "ETB": "UNIV. AIN TEMOUCHENT", "moy": ["10.21", "10.23", "10.25"] },
+      { "ETB": "UNIV. GHARDAIA", "moy": ["10.01", "10.37", "11.04"] },
+      { "ETB": "UNIV. RELIZANE", "moy": ["11.81", "12.77", "13.51"] }
+    ]
+  },
+  {
+    "filiere": "LANGUE FRANCAISE",
+    "ETBs": [
+      { "ETB": "UNIV. ADRAR", "moy": ["10.08", "10.19", "10.46"] },
+      { "ETB": "UNIV. CHLEF", "moy": ["11.37", "12.19", "13.00"] },
+      { "ETB": "C. UNIV. AFLOU", "moy": ["10.14", "10.19", "10.89"] },
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["10.15", "10.01", "10.25"] },
+      { "ETB": "UNIV. OUM EL BOUAGHI", "moy": ["10.01", "10.03", "10.17"] },
+      { "ETB": "C . UNIV BARIKA", "moy": ["10.17", "10.85", "10.61"] },
+      { "ETB": "UNIV. BATNA 2", "moy": ["10.21", "10.91", "11.63"] },
+      { "ETB": "UNIV. BEJAIA", "moy": ["13.02", "13.91", "14.85"] },
+      { "ETB": "UNIV. BISKRA", "moy": ["10.00", "10.29", "10.07"] },
+      { "ETB": "UNIV. BECHAR", "moy": ["10.25", "10.66", "10.95"] },
+      { "ETB": "UNIV. BLIDA 2", "moy": ["11.44", "12.19", "13.07"] },
+      { "ETB": "UNIV BOUIRA", "moy": ["12.41", "13.36", "14.12"] },
+      { "ETB": "UNIV. TAMANGHASSET", "moy": ["10.20", "10.04", "11.80"] },
+      { "ETB": "UNIV. TEBESSA", "moy": ["10.19", "10.87", "11.61"] },
+      { "ETB": "UNIV. TLEMCEN", "moy": ["10.68", "11.43", "12.21"] },
+      { "ETB": "UNIV. TIARET", "moy": ["10.30", "10.98", "11.71"] },
+      { "ETB": "UNIV. TIZI OUZOU", "moy": ["12.50", "13.32", "14.30"] },
+      { "ETB": "UNIV. ALGER 2", "moy": ["11.04", "11.79", "12.59"] },
+      { "ETB": "UNIV. DJELFA", "moy": ["10.33", "11.05", "11.82"] },
+      { "ETB": "UNIV. JIJEL", "moy": ["11.24", "12.08", "12.81"] },
+      { "ETB": "UNIV. SETIF 2", "moy": ["11.25", "12.01", "12.83"] },
+      { "ETB": "UNIV. SAIDA", "moy": ["10.00", "10.03", "10.25"] },
+      { "ETB": "UNIV. SKIKDA", "moy": ["10.00", "10.17", "10.02"] },
+      { "ETB": "UNIV. SIDI BEL ABBES", "moy": ["10.00", "10.07", "10.15"] },
+      { "ETB": "UNIV. ANNABA", "moy": ["10.19", "10.82", "11.62"] },
+      { "ETB": "UNIV. GUELMA", "moy": ["10.31", "10.33", "10.02"] },
+      { "ETB": "UNIV. CONSTANTINE 1", "moy": ["10.04", "10.17", "10.77"] },
+      { "ETB": "UNIV. MEDEA", "moy": ["11.05", "11.78", "12.60"] },
+      { "ETB": "UNIV. MOSTAGANEM", "moy": ["10.49", "11.21", "11.95"] },
+      { "ETB": "UNIV. MSILA", "moy": ["10.12", "10.00", "10.17"] },
+      { "ETB": "UNIV. MASCARA", "moy": ["10.03", "10.25", "10.02"] },
+      { "ETB": "UNIV. OUARGLA", "moy": ["10.00", "10.41", "10.17"] },
+      { "ETB": "UNIV. ORAN 2", "moy": ["10.94", "11.69", "12.47"] },
+      { "ETB": "UNIV BORDJ BOU ARRERIDJ", "moy": ["10.03", "10.29", "10.97"] },
+      { "ETB": "UNIV. BOUMERDES", "moy": ["10.26", "10.95", "11.67"] },
+      { "ETB": "UNIV. EL TARF", "moy": ["10.24", "10.31", "10.04"] },
+      { "ETB": "UNIV. TISSEMSILT", "moy": ["10.03", "10.11", "10.69"] },
+      { "ETB": "UNIV EL OUED", "moy": ["10.33", "10.43", "10.34"] },
+      { "ETB": "UNIV KHENCHELA", "moy": ["10.04", "10.10", "10.11"] },
+      { "ETB": "UNIV SOUK AHRAS", "moy": ["10.03", "10.31", "10.89"] },
+      { "ETB": "C. UNIV MILA", "moy": ["10.07", "10.57", "10.27"] },
+      { "ETB": "UNIV. KHEMIS MILIANA", "moy": ["11.18", "11.91", "12.80"] },
+      { "ETB": "C. UNIV. NAAMA", "moy": ["10.07", "10.10", "10.13"] },
+      { "ETB": "UNIV. AIN TEMOUCHENT", "moy": ["10.00", "10.68", "10.51"] },
+      { "ETB": "UNIV. GHARDAIA", "moy": ["10.01", "10.45", "10.31"] },
+      { "ETB": "UNIV. RELIZANE", "moy": ["10.53", "11.37", "12.07"] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES HUMAINES",
+    "ETBs": [
+      { "ETB": "UNIV. ADRAR", "moy": ["10.28", "11.02", ""] },
+      { "ETB": "UNIV. CHLEF", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "C. UNIV. AFLOU", "moy": ["9.91", "10.93", ""] },
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["9.50", "9.51", ""] },
+      { "ETB": "UNIV. OUM EL BOUAGHI", "moy": ["9.75", "10.44", ""] },
+      { "ETB": "C . UNIV BARIKA", "moy": ["9.52", "9.60", ""] },
+      { "ETB": "UNIV. BATNA 1", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV. BEJAIA", "moy": ["10.85", "11.61", ""] },
+      { "ETB": "UNIV. BISKRA", "moy": ["9.50", "9.53", ""] },
+      { "ETB": "UNIV. BECHAR", "moy": ["9.50", "9.52", ""] },
+      { "ETB": "UNIV. BLIDA 2", "moy": ["9.74", "10.43", ""] },
+      { "ETB": "UNIV BOUIRA", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV. TAMANGHASSET", "moy": ["9.50", "9.52", ""] },
+      { "ETB": "UNIV. TEBESSA", "moy": ["9.56", "10.23", ""] },
+      { "ETB": "UNIV. TLEMCEN", "moy": ["9.67", "10.37", ""] },
+      {
+        "ETB": "UNIV. TIARET (+A. KSAR CHELLALA)",
+        "moy": ["9.50", "9.50", ""]
+      },
+      { "ETB": "UNIV. TIZI OUZOU", "moy": ["10.12", "10.88", ""] },
+      { "ETB": "UNIV. ALGER 2", "moy": ["9.50", "9.90", ""] },
+      { "ETB": "UNIV. DJELFA", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV. JIJEL", "moy": ["9.50", "10.15", ""] },
+      { "ETB": "UNIV. SETIF 2", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV. SAIDA", "moy": ["9.75", "10.64", ""] },
+      { "ETB": "UNIV. SKIKDA", "moy": ["9.50", "9.52", ""] },
+      { "ETB": "UNIV. SIDI BEL ABBES", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV. ANNABA", "moy": ["10.01", "10.74", ""] },
+      { "ETB": "UNIV. GUELMA", "moy": ["9.50", "9.51", ""] },
+      { "ETB": "UNIV. CONSTANTINE 2", "moy": ["9.50", "9.50", ""] },
+      {
+        "ETB": "UNIV. SCI ISLAMIQUES EMIR (E.A.K)",
+        "moy": ["9.50", "9.50", ""]
+      },
+      { "ETB": "UNIV. MEDEA", "moy": ["9.50", "9.95", ""] },
+      { "ETB": "UNIV. MOSTAGANEM", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV. MSILA", "moy": ["9.50", "9.54", ""] },
+      { "ETB": "UNIV. MASCARA", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV. OUARGLA", "moy": ["9.74", "10.47", ""] },
+      { "ETB": "UNIV. ORAN 1", "moy": ["9.50", "9.88", ""] },
+      { "ETB": "C. UNIV. EL BAYADH", "moy": ["9.50", "9.56", ""] },
+      { "ETB": "UNIV BORDJ BOU ARRERIDJ", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV EL OUED", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV KHENCHELA", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "UNIV SOUK AHRAS", "moy": ["9.67", "10.51", ""] },
+      { "ETB": "C. UNIV. TIPAZA", "moy": ["9.50", "10.17", ""] },
+      { "ETB": "UNIV. KHEMIS MILIANA", "moy": ["9.50", "9.50", ""] },
+      { "ETB": "C. UNIV. NAAMA", "moy": ["9.87", "10.73", ""] },
+      { "ETB": "UNIV. GHARDAIA", "moy": ["9.50", "9.57", ""] },
+      { "ETB": "UNIV. RELIZANE", "moy": ["9.50", "9.51", ""] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES SOCIALES",
+    "ETBs": [
+      { "ETB": "UNIV. ADRAR", "moy": ["10.93", "11.87", "12.57"] },
+      { "ETB": "UNIV. CHLEF", "moy": ["9.90", "11.02", "11.30"] },
+      { "ETB": "C. UNIV. AFLOU", "moy": ["10.25", "12.40", "--"] },
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["10.00", "10.68", "11.43"] },
+      { "ETB": "UNIV. OUM EL BOUAGHI", "moy": ["10.42", "11.25", "11.90"] },
+      { "ETB": "C . UNIV BARIKA", "moy": ["9.50", "--", "9.50"] },
+      { "ETB": "UNIV. BATNA 1", "moy": ["10.22", "10.94", "11.68"] },
+      { "ETB": "UNIV. BEJAIA", "moy": ["11.08", "12.63", "13.38"] },
+      { "ETB": "UNIV. BISKRA", "moy": ["10.11", "10.96", "11.55"] },
+      { "ETB": "UNIV. BECHAR", "moy": ["9.69", "10.56", "11.27"] },
+      { "ETB": "UNIV. BLIDA 2", "moy": ["10.15", "11.12", "11.57"] },
+      { "ETB": "UNIV BOUIRA", "moy": ["9.83", "10.68", "11.23"] },
+      { "ETB": "UNIV. TAMANGHASSET", "moy": ["10.00", "10.96", "11.48"] },
+      { "ETB": "UNIV. TEBESSA", "moy": ["9.88", "10.53", "11.40"] },
+      { "ETB": "C. UNIV MAGHNIA", "moy": ["11.09", "13.05", "12.64"] },
+      { "ETB": "UNIV. TLEMCEN", "moy": ["10.59", "12.87", "12.08"] },
+      {
+        "ETB": "UNIV. TIARET (+A. KSAR CHELLALA)",
+        "moy": ["9.83", "10.50", "11.24"]
+      },
+      { "ETB": "UNIV. TIZI OUZOU", "moy": ["10.23", "10.99", "11.93"] },
+      { "ETB": "UNIV. ALGER 2", "moy": ["10.17", "10.85", "11.65"] },
+      { "ETB": "UNIV. DJELFA", "moy": ["9.77", "10.53", "11.17"] },
+      { "ETB": "UNIV. JIJEL", "moy": ["10.26", "10.94", "11.75"] },
+      { "ETB": "UNIV. SETIF 2", "moy": ["10.13", "10.82", "11.63"] },
+      { "ETB": "UNIV. SAIDA", "moy": ["10.30", "11.04", "12.12"] },
+      { "ETB": "UNIV. SKIKDA", "moy": ["9.56", "10.21", "11.02"] },
+      { "ETB": "UNIV. SIDI BEL ABBES", "moy": ["10.04", "11.00", "11.52"] },
+      { "ETB": "UNIV. ANNABA", "moy": ["9.93", "10.96", "11.35"] },
+      { "ETB": "UNIV. GUELMA", "moy": ["9.89", "10.60", "11.28"] },
+      { "ETB": "UNIV. CONSTANTINE 2", "moy": ["9.67", "10.50", "11.02"] },
+      { "ETB": "UNIV. MEDEA", "moy": ["10.19", "11.49", "11.77"] },
+      { "ETB": "UNIV. MOSTAGANEM", "moy": ["9.96", "12.97", "11.62"] },
+      { "ETB": "UNIV. MSILA", "moy": ["9.50", "9.52", "9.50"] },
+      { "ETB": "UNIV. MASCARA", "moy": ["10.07", "10.96", "11.53"] },
+      { "ETB": "UNIV. OUARGLA", "moy": ["10.15", "--", "11.73"] },
+      { "ETB": "UNIV. ORAN 2", "moy": ["9.73", "10.48", "11.10"] },
+      { "ETB": "C. UNIV. EL BAYADH", "moy": ["9.50", "--", "9.51"] },
+      { "ETB": "UNIV BORDJ BOU ARRERIDJ", "moy": ["9.50", "11.50", "10.83"] },
+      { "ETB": "UNIV. EL TARF", "moy": ["9.78", "--", "11.15"] },
+      { "ETB": "UNIV EL OUED", "moy": ["10.15", "10.87", "11.59"] },
+      { "ETB": "UNIV KHENCHELA", "moy": ["9.85", "10.85", "11.27"] },
+      { "ETB": "UNIV SOUK AHRAS", "moy": ["10.36", "--", "12.02"] },
+      { "ETB": "C. UNIV. TIPAZA", "moy": ["10.11", "11.00", "11.58"] },
+      { "ETB": "UNIV. KHEMIS MILIANA", "moy": ["9.50", "10.29", "9.50"] },
+      { "ETB": "UNIV. AIN TEMOUCHENT", "moy": ["9.58", "10.50", "11.52"] },
+      { "ETB": "UNIV. GHARDAIA", "moy": ["9.50", "9.51", "9.52"] },
+      { "ETB": "UNIV. RELIZANE", "moy": ["10.19", "10.97", "11.66"] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES ISLAMIQUES",
+    "ETBs": [
+      { "ETB": "UNIV. ADRAR", "moy": ["9.84", "10.61", ""] },
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["10.89", "11.68", ""] },
+      { "ETB": "UNIV. BATNA 1", "moy": ["9.55", "10.21", ""] },
+      { "ETB": "UNIV BOUIRA", "moy": ["9.70", "10.38", ""] },
+      { "ETB": "UNIV. TLEMCEN", "moy": ["12.31", "13.19", ""] },
+      { "ETB": "UNIV. ALGER 1", "moy": ["9.50", "9.50", ""] },
+      {
+        "ETB": "UNIV. SCI ISLAMIQUES EMIR (E.A.K)",
+        "moy": ["12.75", "13.64", ""]
+      },
+      { "ETB": "UNIV. MSILA", "moy": ["10.25", "10.97", ""] },
+      { "ETB": "UNIV. ORAN 1", "moy": ["11.06", "11.83", ""] },
+      { "ETB": "UNIV EL OUED", "moy": ["9.50", "9.51", ""] },
+      { "ETB": "UNIV. GHARDAIA", "moy": ["9.65", "9.55", ""] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES ET TECHNIQUES DES ACTIVITES PHYSIQUES ET\rSPORTIVES",
+    "ETBs": [
+      { "ETB": "UNIV. CHLEF", "moy": ["10.50", "", ""] },
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["10.50", "", ""] },
+      { "ETB": "UNIV. OUM EL BOUAGHI", "moy": ["10.50", "", ""] },
+      { "ETB": "UNIV. BATNA 2", "moy": ["11.43", "", ""] },
+      { "ETB": "UNIV. BEJAIA", "moy": ["11.90", "", ""] },
+      { "ETB": "UNIV. BISKRA", "moy": ["10.50", "", ""] },
+      { "ETB": "UNIV BOUIRA", "moy": ["10.50", "", ""] },
+      { "ETB": "UNIV. TEBESSA", "moy": ["10.73", "", ""] },
+      { "ETB": "UNIV. ALGER 3", "moy": ["10.50", "", ""] },
+      { "ETB": "UNIV. DJELFA", "moy": ["10.50", "", ""] },
+      { "ETB": "UNIV. JIJEL", "moy": ["12.43", "", ""] },
+      { "ETB": "UNIV. SETIF 2", "moy": ["10.82", "", ""] },
+      { "ETB": "UNIV. ANNABA", "moy": ["12.85", "", ""] },
+      { "ETB": "UNIV. CONSTANTINE 2", "moy": ["11.02", "", ""] },
+      { "ETB": "UNIV. MOSTAGANEM", "moy": ["10.84", "", ""] },
+      { "ETB": "UNIV. MSILA", "moy": ["10.53", "", ""] },
+      { "ETB": "UNIV. OUARGLA", "moy": ["10.52", "", ""] },
+      { "ETB": "U.S.T.O. (ORAN)", "moy": ["12.63", "", ""] },
+      { "ETB": "C. UNIV. EL BAYADH", "moy": ["12.24", "", ""] },
+      { "ETB": "UNIV. BOUMERDES", "moy": ["11.65", "", ""] },
+      { "ETB": "UNIV. TISSEMSILT", "moy": ["10.88", "", ""] },
+      { "ETB": "UNIV SOUK AHRAS", "moy": ["10.50", "", ""] },
+      { "ETB": "UNIV. KHEMIS MILIANA", "moy": ["10.50", "", ""] }
+    ]
+  },
+  {
+    "filiere": "GESTION DES TECHNIQUES URBAINES",
+    "ETBs": [
+      { "ETB": "UNIV. CHLEF", "moy": ["9.44", "", ""] },
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["9.89", "", ""] },
+      { "ETB": "UNIV. OUM EL BOUAGHI", "moy": ["8.95", "", ""] },
+      { "ETB": "UNIV. OUM EL BOUAGHI", "moy": ["10.87", "11.45", ""] },
+      { "ETB": "UNIV. BATNA 1", "moy": ["9.98", "", ""] },
+      { "ETB": "UNIV. BISKRA", "moy": ["10.47", "", ""] },
+      { "ETB": "UNIV. JIJEL", "moy": ["11.33", "", ""] },
+      { "ETB": "UNIV. JIJEL", "moy": ["10.23", "", ""] },
+      { "ETB": "UNIV. CONSTANTINE 3", "moy": ["9.04", "", ""] },
+      { "ETB": "UNIV. MSILA", "moy": ["10.02", "", ""] }
+    ]
+  },
+  {
+    "filiere": "GEOLOGIE",
+    "ETBs": [
+      { "ETB": "UNIV. CHLEF", "moy": ["8.22", "--", "9.51"] },
+      { "ETB": "UNIV. OUM EL BOUAGHI", "moy": ["8.57", "9.37", "9.52"] },
+      { "ETB": "UNIV. BATNA 2", "moy": ["7.58", "7.68", "9.50"] },
+      { "ETB": "UNIV. TAMANGHASSET", "moy": ["9.95", "--", "--"] },
+      { "ETB": "UNIV. TEBESSA", "moy": ["7.76", "8.20", "10.01"] },
+      { "ETB": "UNIV. TLEMCEN", "moy": ["8.00", "8.58", "9.53"] },
+      {
+        "ETB": "UNIV. TIARET (+A. KSAR CHELLALA)",
+        "moy": ["8.17", "--", "9.59"]
+      },
+      { "ETB": "UNIV. TIZI OUZOU", "moy": ["8.11", "7.66", "9.52"] },
+      { "ETB": "USTHB", "moy": ["8.90", "9.50", "10.16"] },
+      { "ETB": "UNIV. DJELFA", "moy": ["10.82", "9.75", ""] },
+      { "ETB": "UNIV. JIJEL", "moy": ["8.50", "10.74", "10.05"] },
+      { "ETB": "UNIV. SETIF 1", "moy": ["7.68", "8.15", "9.52"] },
+      { "ETB": "UNIV. ANNABA", "moy": ["8.45", "7.59", "9.50"] },
+      { "ETB": "UNIV. ANNABA", "moy": ["12.02", "--", "12.10"] },
+      { "ETB": "UNIV. GUELMA", "moy": ["8.93", "--", "9.68"] },
+      { "ETB": "UNIV. CONSTANTINE 1", "moy": ["7.70", "6.87", "9.50"] },
+      { "ETB": "UNIV. MASCARA", "moy": ["7.55", "8.71", "9.55"] },
+      { "ETB": "UNIV. OUARGLA", "moy": ["8.15", "8.85", "9.50"] },
+      { "ETB": "UNIV. ORAN 2", "moy": ["8.17", "8.71", "9.52"] },
+      { "ETB": "C. UNIV. TINDOUF", "moy": ["9.25", "9.17", "10.44"] },
+      { "ETB": "UNIV. KHEMIS MILIANA", "moy": ["8.03", "8.83", "9.53"] }
+    ]
+  },
+  {
+    "filiere": "ARCHITECTURE",
+    "ETBs": [
+      { "ETB": "UNIV. CHLEF", "moy": ["13.01", "", ""] },
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["13.03", "", ""] },
+      { "ETB": "UNIV. OUM EL BOUAGHI", "moy": ["13.02", "", ""] },
+      { "ETB": "UNIV. BATNA 1", "moy": ["13.01", "", ""] },
+      { "ETB": "UNIV. BEJAIA", "moy": ["14.14", "", ""] },
+      { "ETB": "UNIV. BISKRA", "moy": ["13.01", "", ""] },
+      { "ETB": "UNIV. BECHAR", "moy": ["13.09", "", ""] },
+      { "ETB": "UNIV. BLIDA 1", "moy": ["13.75", "", ""] },
+      { "ETB": "UNIV. TEBESSA", "moy": ["13.03", "", ""] },
+      { "ETB": "UNIV. TLEMCEN", "moy": ["13.94", "", ""] },
+      { "ETB": "UNIV. TIZI OUZOU", "moy": ["14.48", "", ""] },
+      { "ETB": "UNIV. ALGER 1", "moy": ["14.96", "", ""] },
+      { "ETB": "UNIV. JIJEL", "moy": ["13.01", "", ""] },
+      { "ETB": "UNIV. SETIF 1", "moy": ["14.52", "", ""] },
+      { "ETB": "UNIV. ANNABA", "moy": ["13.98", "", ""] },
+      { "ETB": "UNIV. GUELMA", "moy": ["13.01", "", ""] },
+      { "ETB": "UNIV. CONSTANTINE 3", "moy": ["14.61", "", ""] },
+      { "ETB": "UNIV. MOSTAGANEM", "moy": ["13.00", "", ""] },
+      { "ETB": "U.S.T.O. (ORAN)", "moy": ["15.37", "", ""] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES ALIMENTAIRES",
+    "ETBs": [
+      { "ETB": "UNIV. CHLEF", "moy": ["10.78", "11.47", ""] },
+      {
+        "ETB": "UNIV. OUM EL BOUAGHI – I.S.T.A",
+        "moy": ["12.03", "12.38", "12.06"]
+      },
+      { "ETB": "UNIV. BEJAIA", "moy": ["10.51", "11.23", ""] },
+      { "ETB": "UNIV. BEJAIA", "moy": ["11.90", "--", ""] },
+      { "ETB": "UNIV. BLIDA 1 I.S.T.A", "moy": ["12.62", "13.32", "14.02"] },
+      { "ETB": "UNIV. TLEMCEN I.S.T.A", "moy": ["12.87", "--", "14.52"] },
+      { "ETB": "UNIV. GUELMA", "moy": ["11.75", "--", ""] },
+      { "ETB": "UNIV. CONSTANTINE 1", "moy": ["11.97", "13.13", ""] }
+    ]
+  },
+  {
+    "filiere": "LANGUE ESPAGNOLE",
+    "ETBs": [
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["10.03", "", ""] },
+      { "ETB": "UNIV. TLEMCEN", "moy": ["10.01", "", ""] },
+      { "ETB": "UNIV. ALGER 2", "moy": ["12.03", "", ""] },
+      { "ETB": "UNIV. MOSTAGANEM", "moy": ["10.17", "", ""] },
+      { "ETB": "UNIV. ORAN 2", "moy": ["10.03", "", ""] }
+    ]
+  },
+  {
+    "filiere": "HYDRAULIQUE",
+    "ETBs": [
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["12.05", "13.02", ""] },
+      { "ETB": "UNIV. BEJAIA", "moy": ["12.24", "12.85", ""] },
+      { "ETB": "UNIV. BISKRA", "moy": ["11.03", "12.10", ""] },
+      { "ETB": "UNIV. BOUIRA – I.S.T.A", "moy": ["11.55", "12.12", ""] },
+      { "ETB": "U.S.T.O. (ORAN)", "moy": ["12.03", "12.63", ""] }
+    ]
+  },
+  {
+    "filiere": "TRAVAUX PUBLICS",
+    "ETBs": [{ "ETB": "UNIV. LAGHOUAT", "moy": ["12.02", "13.04", ""] }]
+  },
+  {
+    "filiere": "GENIE CIVIL",
+    "ETBs": [
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["12.02", "13.05", ""] },
+      { "ETB": "UNIV. DJELFA", "moy": ["12.93", "13.68", ""] }
+    ]
+  },
+  {
+    "filiere": "METIERS DE LA VILLE",
+    "ETBs": [
+      { "ETB": "UNIV. LAGHOUAT", "moy": ["9.45", "", ""] },
+      { "ETB": "UNIV. BATNA 1", "moy": ["9.12", "", ""] },
+      { "ETB": "UNIV. BISKRA", "moy": ["7.97", "", ""] },
+      { "ETB": "UNIV. GUELMA", "moy": ["10.37", "", ""] },
+      { "ETB": "UNIV. CONSTANTINE 3", "moy": ["10.58", "", ""] }
+    ]
+  },
+  {
+    "filiere": "GEOGRAPHIE ET AMENAGEMENT DU TERRITOIRE",
+    "ETBs": [
+      { "ETB": "UNIV. OUM EL BOUAGHI", "moy": ["8.35", "8.98", "9.62"] },
+      { "ETB": "UNIV. BATNA 2", "moy": ["7.50", "7.29", "9.51"] },
+      { "ETB": "UNIV. BISKRA", "moy": ["8.33", "--", "9.77"] },
+      { "ETB": "UNIV. TEBESSA", "moy": ["8.19", "--", "9.80"] },
+      { "ETB": "USTHB", "moy": ["7.70", "6.57", "9.50"] },
+      { "ETB": "UNIV. DJELFA", "moy": ["7.69", "9.27", "9.55"] },
+      { "ETB": "UNIV. SETIF 1", "moy": ["8.06", "10.19", "9.65"] },
+      { "ETB": "UNIV. ANNABA", "moy": ["8.40", "8.27", "9.62"] },
+      { "ETB": "UNIV. CONSTANTINE 1", "moy": ["9.53", "10.19", "10.91"] },
+      { "ETB": "UNIV. ORAN 2", "moy": ["10.33", "10.97", "11.78"] }
+    ]
+  },
+  {
+    "filiere": "PHYSIQUE",
+    "ETBs": [
+      {
+        "ETB": "UNIV. OUM EL BOUAGHI – I.S.T.A",
+        "moy": ["12.27", "12.77", "13.82"]
+      },
+      { "ETB": "UNIV. ORAN 1 I.S.T.A", "moy": ["15.02", "", ""] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES DE GESTIONSCIENCES FINANCIERES ET\rCOMPTABILITE",
+    "ETBs": [
+      {
+        "ETB": "UNIV. OUM EL BOUAGHI – I.S.T.A",
+        "moy": ["13.50", "14.67", "--"]
+      },
+      { "ETB": "UNIV. OUARGLA – I.S.T.A.", "moy": ["13.74", "--", "--"] }
+    ]
+  },
+  {
+    "filiere": "TELECOMMUNICATIONS",
+    "ETBs": [
+      { "ETB": "UNIV. OUM EL BOUAGHI – I.S.T.A", "moy": ["13.70", "14.37", ""] }
+    ]
+  },
+  {
+    "filiere": "CP STECOLE NATIONALE SUPERIEURE DES ENERGIES\rRENOUVELABLES DE ENVIRONNEMENT DU\rDEVELOPPEMENT DURABLE DE BATNA",
+    "ETBs": [
+      {
+        "ETB": "E.N.S DES ENERGIES RENOUVELABLES, DE\rL’ENVIRONNEMENT ET DU DEVELOPPEMENT\rDURABLE BATNA",
+        "moy": ["15.40", "16.16", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "SCIENCES VETERINAIRES",
+    "ETBs": [
+      {
+        "ETB": "INSTITUT VETERINAIRE UNIV.BATNA 1",
+        "moy": ["12.50", "12.63", "12.55"]
+      },
+      { "ETB": "UNIV. BLIDA 1", "moy": ["12.69", "13.77", "14.55"] },
+      {
+        "ETB": "INSTITUT VETERINAIRE UNIV. TIARET",
+        "moy": ["12.50", "12.90", "12.50"]
+      },
+      {
+        "ETB": "ECOLE NATIONALE SUPERIEURE VETERINAIRE\rALGER",
+        "moy": ["14.50", "15.51", "--"]
+      },
+      {
+        "ETB": "INSTITUT VETERINAIRE UNIV.CONSTANTINE 1",
+        "moy": ["12.98", "14.05", "14.98"]
+      },
+      { "ETB": "UNIV. EL TARF", "moy": ["12.50", "13.57", "12.57"] },
+      { "ETB": "UNIV SOUK AHRAS", "moy": ["12.51", "12.76", "12.70"] }
+    ]
+  },
+  {
+    "filiere": "LANGUE ET CULTURE AMAZIGHES",
+    "ETBs": [
+      { "ETB": "UNIV. BATNA 1", "moy": ["9.50", "9.81", ""] },
+      { "ETB": "UNIV. BEJAIA", "moy": ["10.86", "11.81", ""] },
+      { "ETB": "UNIV BOUIRA", "moy": ["9.56", "10.33", ""] },
+      { "ETB": "UNIV. TAMANGHASSET", "moy": ["9.50", "9.79", ""] },
+      { "ETB": "UNIV. TIZI OUZOU", "moy": ["9.82", "10.55", ""] }
+    ]
+  },
+  {
+    "filiere": "HYGIENE ET SECURITE INDUSTRIELLE",
+    "ETBs": [
+      { "ETB": "UNIV. BATNA 2", "moy": ["13.48", "14.15", ""] },
+      { "ETB": "UNIV.SKIKDA I.S.T.A", "moy": ["14.48", "15.17", ""] },
+      { "ETB": "UNIV. OUARGLA – I.S.T.A.", "moy": ["14.11", "15.21", ""] },
+      { "ETB": "UNIV. ORAN 2", "moy": ["14.18", "14.88", ""] }
+    ]
+  },
+  {
+    "filiere": "TRADUCTION INTERPRETARIAT (ARABE, FRANCAIS,\rANGLAIS)",
+    "ETBs": [
+      { "ETB": "UNIV. BATNA 2", "moy": ["13.45", "", ""] },
+      { "ETB": "UNIV. ALGER 2", "moy": ["14.40", "", ""] },
+      { "ETB": "UNIV. ANNABA", "moy": ["13.53", "", ""] },
+      { "ETB": "UNIV. CONSTANTINE 1", "moy": ["14.61", "", ""] },
+      { "ETB": "UNIV. ORAN 1", "moy": ["13.61", "", ""] }
+    ]
+  },
+  {
+    "filiere": "CP INF ECOLE SUPERIEURE EN SCIENCES ET\rTECHNOLOGIES DE L INFORMATIQUE ET DU\rNUMERIQUEBEJAIA",
+    "ETBs": [
+      {
+        "ETB": "E.S EN SCIENCES ET TECHNOLOGIES DE L\rINFORMATIQUE ET DU NUMERIQUE BEJAIA",
+        "moy": ["17.01", "17.50", "18.03"]
+      }
+    ]
+  },
+  {
+    "filiere": "INFORMATIQUE",
+    "ETBs": [
+      { "ETB": "UNIV. BEJAIA", "moy": ["15.25", "16.00", ""] },
+      { "ETB": "UNIV. DJELFA", "moy": ["13.73", "14.33", ""] },
+      { "ETB": "UNIV. GUELMA", "moy": ["13.73", "14.43", ""] },
+      { "ETB": "UNIV. CONSTANTINE 2", "moy": ["14.50", "15.23", ""] },
+      { "ETB": "UNIV. BOUMERDES", "moy": ["15.34", "16.12", ""] }
+    ]
+  },
+  {
+    "filiere": "ELECTROTECHNIQUE",
+    "ETBs": [
+      { "ETB": "UNIV. BISKRA", "moy": ["12.34", "12.96", ""] },
+      { "ETB": "UNIV. SIDI BEL ABBES", "moy": ["14.18", "14.98", ""] },
+      { "ETB": "UNIV. GUELMA", "moy": ["13.18", "13.85", ""] },
+      { "ETB": "UNIV. CONSTANTINE 1", "moy": ["13.90", "14.60", ""] },
+      { "ETB": "U.S.T.O. (ORAN)", "moy": ["14.17", "14.95", ""] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES AGRONOMIQUES",
+    "ETBs": [
+      { "ETB": "UNIV. BISKRA", "moy": ["10.88", "--", ""] },
+      { "ETB": "UNIV. TLEMCEN", "moy": ["10.05", "--", ""] },
+      { "ETB": "UNIV. TLEMCEN", "moy": ["11.33", "--", ""] },
+      { "ETB": "UNIV. SETIF 1", "moy": ["9.69", "9.21", ""] },
+      { "ETB": "UNIV. OUARGLA", "moy": ["10.10", "--", ""] },
+      { "ETB": "UNIV. ORAN 1", "moy": ["12.25", "--", ""] }
+    ]
+  },
+  {
+    "filiere": "CP STECOLE NATIONALE SUPERIEURE D\rHYDRAULIQUEBLIDA",
+    "ETBs": [
+      {
+        "ETB": "ECOLE NATIONALE SUPERIEURE\rHYDRAULIQUE BLIDA",
+        "moy": ["13.99", "14.70", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "AERONAUTIQUE",
+    "ETBs": [
+      { "ETB": "UNIV. BLIDA 1", "moy": ["15.76", "16.55", ""] },
+      { "ETB": "U.S.T.O. (ORAN)", "moy": ["15.72", "16.55", ""] }
+    ]
+  },
+  {
+    "filiere": "LANGUE ITALIENNE",
+    "ETBs": [
+      { "ETB": "UNIV. BLIDA 2", "moy": ["10.36", "", ""] },
+      { "ETB": "UNIV. ALGER 2", "moy": ["9.85", "", ""] },
+      { "ETB": "UNIV. ANNABA", "moy": ["12.09", "", ""] }
+    ]
+  },
+  {
+    "filiere": "GENIE DES PROCEDES",
+    "ETBs": [
+      { "ETB": "UNIV. BOUIRA – I.S.T.A", "moy": ["12.54", "13.22", ""] },
+      { "ETB": "UNIV. SETIF 1", "moy": ["12.01", "12.02", ""] },
+      { "ETB": "UNIV. MEDEA", "moy": ["13.12", "13.24", ""] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES HUMAINES  BIBLIOTHECONOMIE",
+    "ETBs": [
+      { "ETB": "UNIV. TAMANGHASSET", "moy": ["12.05", "13.30", ""] },
+      { "ETB": "UNIV. CONSTANTINE 2", "moy": ["12.00", "12.01", ""] }
+    ]
+  },
+  {
+    "filiere": "GENIE MINIER",
+    "ETBs": [
+      { "ETB": "UNIV. TEBESSA", "moy": ["10.26", "11.40", ""] },
+      { "ETB": "UNIV. ANNABA", "moy": ["12.81", "13.45", ""] }
+    ]
+  },
+  {
+    "filiere": "CP SECSGECOLE SUPERIEURE DE MANAGEMENT DE\rTLEMCEN",
+    "ETBs": [
+      {
+        "ETB": "ECOLE SUPERIEURE DE MANAGEMENT DE\rTLEMCEN",
+        "moy": ["15.48", "", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP STECOLE SUPERIEURE DES SCIENCES APPLIQUEES DE\rTLEMCEN",
+    "ETBs": [
+      {
+        "ETB": "ECOLE SUPERIEURE DES SCIENCES\rAPPLIQUEES DE TLEMCEN",
+        "moy": ["15.03", "15.79", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "ARTS",
+    "ETBs": [
+      { "ETB": "UNIV. TLEMCEN", "moy": ["9.57", "", ""] },
+      { "ETB": "UNIV. ALGER 2", "moy": ["10.56", "", ""] },
+      { "ETB": "UNIV. DJELFA", "moy": ["9.50", "", ""] },
+      { "ETB": "UNIV. SAIDA", "moy": ["9.54", "", ""] },
+      { "ETB": "UNIV. SIDI BEL ABBES", "moy": ["9.72", "", ""] },
+      { "ETB": "UNIV. CONSTANTINE 3", "moy": ["11.64", "", ""] },
+      { "ETB": "UNIV. MOSTAGANEM", "moy": ["10.11", "", ""] },
+      { "ETB": "UNIV. MASCARA", "moy": ["9.52", "", ""] },
+      { "ETB": "UNIV. ORAN 1", "moy": ["9.50", "", ""] }
+    ]
+  },
+  {
+    "filiere": "GENIE INDUSTRIEL",
+    "ETBs": [
+      { "ETB": "UNIV. TLEMCEN", "moy": ["11.75", "12.34", ""] },
+      { "ETB": "USTO ORAN I.S.T.A", "moy": ["14.33", "15.08", ""] }
+    ]
+  },
+  {
+    "filiere": "GENIEBIOMEDICAL",
+    "ETBs": [{ "ETB": "UNIV. TLEMCEN", "moy": ["12.81", "13.44", ""] }]
+  },
+  {
+    "filiere": "GENIE MECANIQUE",
+    "ETBs": [
+      { "ETB": "UNIV. TLEMCEN", "moy": ["13.37", "14.09", ""] },
+      { "ETB": "UNIV. GUELMA", "moy": ["12.34", "13.04", ""] },
+      { "ETB": "UNIV. CONSTANTINE 1", "moy": ["13.62", "14.30", ""] },
+      { "ETB": "UNIV. CONSTANTINE 1 I.S.T.A", "moy": ["13.52", "--", "14.95"] },
+      { "ETB": "UNIV. CONSTANTINE 1 I.S.T.A", "moy": ["13.18", "13.80", ""] },
+      {
+        "ETB": "UNIV. CONSTANTINE 1 I.S.T.A",
+        "moy": ["13.01", "13.95", "14.40"]
+      }
+    ]
+  },
+  {
+    "filiere": "METIERS DE LA VILLE  GEOMETRE TOPOGRAPHE",
+    "ETBs": [{ "ETB": "UNIV. TLEMCEN I.S.T.A", "moy": ["13.51", "14.19", ""] }]
+  },
+  {
+    "filiere": "SCIENCES FINANCIERES ET COMPTABILITE",
+    "ETBs": [{ "ETB": "UNIV. TIZI OUZOU", "moy": ["12.40", "13.28", ""] }]
+  },
+  {
+    "filiere": "CP STECOLE NATIONALE POLYTECHNIQUE D ALGER",
+    "ETBs": [
+      {
+        "ETB": "ECOLE NATIONALE POLYTECHNIQUE D ALGER",
+        "moy": ["17.63", "18.58", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP SPECOLE NATIONALE SUPERIEURE DES SCIENCES DE\rLA MER ET DE L AMENAGEMENT DU LITTORAL D ALGER",
+    "ETBs": [
+      {
+        "ETB": "ECOLE NATIONALE SUP. DES SCI. DE LA MER\rET DE L AMENAGEMENT DU LITTORAL ALGER",
+        "moy": ["12.87", "13.77", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP SNVECOLE NATIONALE SUPERIEURE\rAGRONOMIQUEALGER",
+    "ETBs": [
+      {
+        "ETB": "ECOLE NATIONALE SUPERIEURE\rAGRONOMIQUE ALGER",
+        "moy": ["13.47", "14.42", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP JOURNALISMEECOLE NATIONALE SUPERIEURE DE\rJOURNALISME ET DES SCIENCES DE L\rINFORMATIONALGER",
+    "ETBs": [
+      {
+        "ETB": "ECOLE NATIONALE SUPERIEURE DE\rJOURNALISME ET DES SCIENCES DE L\rINFORMATION ALGER",
+        "moy": ["15.26", "", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP STECOLE NATIONALE SUPERIEURE DE\rTECHNOLOGIEALGER",
+    "ETBs": [
+      {
+        "ETB": "ECOLE NATIONALE SUPERIEURE DE\rTECHNOLOGIE ALGER",
+        "moy": ["16.27", "17.08", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP SPOECOLE NATIONALE SUPERIEURE DE SCIENCES\rPOLITIQUESALGER",
+    "ETBs": [
+      {
+        "ETB": "ECOLE NATIONALE SUPERIEURE DES\rSCIENCES POLITIQUES ALGER",
+        "moy": ["14.74", "15.59", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP STECOLE NATIONALE SUPERIEURE DES TRAVAUX\rPUBLICSALGER",
+    "ETBs": [
+      {
+        "ETB": "ECOLE NATIONALE SUPERIEURE DES\rTRAVAUX PUBLICS ALGER",
+        "moy": ["15.90", "16.72", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP INFECOLE NATIONALE SUPERIEURE EN\rINFORMATIQUEALGER",
+    "ETBs": [
+      {
+        "ETB": "ECOLE NATIONALE SUPERIEURE EN\rINFORMATIQUE ALGER",
+        "moy": ["18.13", "18.67", "19.23"]
+      }
+    ]
+  },
+  {
+    "filiere": "CP INF ECOLE NATIONALE SUPERIEURE EN INTELLIGENCE\rARTIFICIELLE ALGER",
+    "ETBs": [
+      {
+        "ETB": "ECOLE NATIONALE SUPERIEURE EN\rINTELLIGENCE ARTIFICIELLE ALGER POLE DE\rSIDI ABDELLAH",
+        "moy": ["17.52", "18.41", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP MATHS  ECOLE NATIONALE SUPERIEURE EN\rMATHEMATIQUES ALGER",
+    "ETBs": [
+      {
+        "ETB": "ECOLE NATIONALE SUPERIEURE EN\rMATHEMATIQUES ALGER POLE DE SIDI\rABDELLAH",
+        "moy": ["16.64", "16.76", "17.25"]
+      }
+    ]
+  },
+  {
+    "filiere": "CP SPECOLE POLYTECHNIQUE D’ARCHITECTURE ET D\rURBANISME ALGER",
+    "ETBs": [
+      {
+        "ETB": "ECOLE POLYTECHNIQUE D ARCHITECTURE ET\rD URBANISME ALGER",
+        "moy": ["16.78", "", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP SNVECOLE SUPERIEURE DES SCIENCES DE L ALIMENT\rET DES INDUSTRIES AGROALIMENTAIRES D ALGER",
+    "ETBs": [
+      {
+        "ETB": "ECOLE SUP. DES SCI. DE L ALIMENT ET DES\rINDUSTRIES AGROALIMENTAIRES ALGER",
+        "moy": ["14.56", "15.61", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP STECOLE SUPERIEURE DES SCIENCES APPLIQUEES\rD’ALGER",
+    "ETBs": [
+      {
+        "ETB": "ECOLE SUPERIEURE DES SCIENCES\rAPPLIQUEES D ALGER",
+        "moy": ["15.68", "16.47", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "LANGUE ALLEMANDE",
+    "ETBs": [
+      { "ETB": "UNIV. ALGER 2", "moy": ["12.06", "", ""] },
+      { "ETB": "UNIV. SKIKDA", "moy": ["12.85", "", ""] },
+      { "ETB": "UNIV. SIDI BEL ABBES", "moy": ["10.89", "", ""] },
+      { "ETB": "UNIV. ORAN 2", "moy": ["10.87", "", ""] }
+    ]
+  },
+  {
+    "filiere": "LANGUE RUSSE",
+    "ETBs": [
+      { "ETB": "UNIV. ALGER 2", "moy": ["12.82", "13.72", ""] },
+      { "ETB": "UNIV. ORAN 2", "moy": ["11.99", "12.84", ""] }
+    ]
+  },
+  {
+    "filiere": "TRADUCTION INTERPRETARIAT (ARABE, FRANCAIS,\rALLEMAND)",
+    "ETBs": [{ "ETB": "UNIV. ALGER 2", "moy": ["13.43", "", ""] }]
+  },
+  {
+    "filiere": "TRADUCTION INTERPRETARIAT (ARABE, FRANCAIS,\rESPAGNOLE)",
+    "ETBs": [
+      { "ETB": "UNIV. ALGER 2", "moy": ["12.63", "", ""] },
+      { "ETB": "UNIV. ORAN 1", "moy": ["12.09", "", ""] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES HUMAINESARCHEOLOGIE",
+    "ETBs": [
+      { "ETB": "UNIV. ALGER 2", "moy": ["11.37", "11.95", ""] },
+      { "ETB": "UNIV. GUELMA", "moy": ["11.04", "11.01", ""] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES HUMAINESSCIENCES DE L INFORMATION ET DE\rLA COMMUNICATION",
+    "ETBs": [
+      { "ETB": "UNIV. ALGER 3", "moy": ["11.17", "11.97", ""] },
+      { "ETB": "UNIV. CONSTANTINE 3", "moy": ["10.69", "11.45", ""] }
+    ]
+  },
+  {
+    "filiere": "PHYSIQUECHIMIE",
+    "ETBs": [{ "ETB": "USTHB", "moy": ["13.65", "", ""] }]
+  },
+  {
+    "filiere": "OPTIQUE ET MECANIQUE DE PRECISION",
+    "ETBs": [
+      { "ETB": "UNIV. SETIF 1", "moy": ["13.06", "13.68", ""] },
+      { "ETB": "UNIV. OUARGLA – I.S.T.A.", "moy": ["12.56", "13.15", ""] },
+      { "ETB": "UNIV. ORAN 1 I.S.T.A", "moy": ["16.09", "17.01", ""] },
+      { "ETB": "UNIV. ORAN 1 I.S.T.A", "moy": ["14.72", "15.60", ""] },
+      { "ETB": "UNIV. BOUMERDES I.S.T.A", "moy": ["13.93", "14.62", ""] }
+    ]
+  },
+  {
+    "filiere": "INDUSTRIES PETROCHIMIQUES",
+    "ETBs": [
+      { "ETB": "UNIV. SKIKDA", "moy": ["15.39", "16.14", ""] },
+      { "ETB": "UNIV. SKIKDA", "moy": ["14.81", "15.58", ""] }
+    ]
+  },
+  {
+    "filiere": "CPI INFECOLE SUPERIEURE EN INFORMATIQUESIDI BEL\rABBES",
+    "ETBs": [
+      {
+        "ETB": "ECOLE SUPERIEURE EN INFORMATIQUE SIDI\rBEL ABBES",
+        "moy": ["17.18", "17.69", "18.24"]
+      }
+    ]
+  },
+  {
+    "filiere": "SCIENCES COMMERCIALES",
+    "ETBs": [{ "ETB": "UNIV. SIDI BEL ABBES", "moy": ["13.19", "14.00", "--"] }]
+  },
+  {
+    "filiere": "CP STECOLE NATIONALE SUPERIEURE DES MINES ET DE LA\rMETALLURGIE DE ANNABA",
+    "ETBs": [
+      {
+        "ETB": "ECOLE NATIONALE SUPERIEURE DES MINES ET\rDE LA METALLURGIE ( ANNABA)",
+        "moy": ["14.31", "15.03", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP SECSGECOLE SUPERIEURE DES SCIENCES DE GESTION\rDE ANNABA",
+    "ETBs": [
+      {
+        "ETB": "ECOLE SUPERIEURE DES SCIENCES DE\rGESTION DE ANNABA",
+        "moy": ["14.69", "", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP STECOLE SUPERIEURE DES TECHNOLOGIES\rINDUSTRIELLES DE ANNABA",
+    "ETBs": [
+      {
+        "ETB": "ECOLE SUPERIEURE DES TECHNOLOGIES\rINDUSTRIELLES DE ANNABA",
+        "moy": ["15.34", "16.11", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "METALLURGIE",
+    "ETBs": [
+      { "ETB": "UNIV. ANNABA", "moy": ["11.73", "12.25", ""] },
+      { "ETB": "U.S.T.O. (ORAN)", "moy": ["10.31", "11.34", ""] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES DE GESTION",
+    "ETBs": [
+      { "ETB": "UNIV. ANNABA", "moy": ["13.71", "--", "15.12"] },
+      { "ETB": "UNIV. ORAN 1 I.S.T.A", "moy": ["14.74", "--", "--"] },
+      { "ETB": "UNIV. GHARDAIA", "moy": ["11.08", "11.90", "11.03"] }
+    ]
+  },
+  {
+    "filiere": "CP SPECOLE NATIONALE SUPERIEURE DE\rBIOTECHNOLOGIE DE CONSTANTINE",
+    "ETBs": [
+      {
+        "ETB": "ECOLE NATIONALE SUPERIEURE DE\rBIOTECHNOLOGIE DE CONSTANTINE",
+        "moy": ["15.01", "16.14", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP STECOLE NATIONALE SUPERIEURE POLYTECHNIQUE DE\rCONSTANTINE",
+    "ETBs": [
+      {
+        "ETB": "ECOLE NATIONALE SUPERIEURE\rPOLYTHECHNIQUE DE CONSTANTINE",
+        "moy": ["16.11", "16.93", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP SECSGECOLE SUPERIEURE DE COMPTABILITE ET DE\rFINANCE DE CONSTANTINE",
+    "ETBs": [
+      {
+        "ETB": "ECOLE SUPERIEURE DE COMPTABILITE ET DE\rFINANCE DE CONSTANTINE",
+        "moy": ["14.91", "", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "INGENIERIE DES TRANSPORTS",
+    "ETBs": [
+      { "ETB": "UNIV. CONSTANTINE 1", "moy": ["10.76", "11.16", ""] },
+      { "ETB": "UNIV. CONSTANTINE 1", "moy": ["12.07", "12.02", ""] },
+      { "ETB": "UNIV. CONSTANTINE 1", "moy": ["12.01", "12.04", ""] }
+    ]
+  },
+  {
+    "filiere": "MATHEMATIQUES",
+    "ETBs": [{ "ETB": "UNIV. CONSTANTINE 1", "moy": ["13.11", "13.78", ""] }]
+  },
+  {
+    "filiere": "GENIEMECANIQUE",
+    "ETBs": [{ "ETB": "UNIV. CONSTANTINE 1", "moy": ["12.90", "13.52", ""] }]
+  },
+  {
+    "filiere": "ECOLOGIE ET ENVIRONNEMENT",
+    "ETBs": [
+      { "ETB": "UNIV. CONSTANTINE 1", "moy": ["11.03", "--", ""] },
+      { "ETB": "UNIV KHENCHELA", "moy": ["10.41", "--", ""] }
+    ]
+  },
+  {
+    "filiere": "ELECTROMECANIQUE",
+    "ETBs": [
+      {
+        "ETB": "UNIV. CONSTANTINE 1 I.S.T.A",
+        "moy": ["13.80", "14.43", "15.17"]
+      },
+      { "ETB": "UNIV. ORAN 2", "moy": ["13.70", "14.35", ""] }
+    ]
+  },
+  {
+    "filiere": "URBANISME",
+    "ETBs": [
+      { "ETB": "UNIV. CONSTANTINE 3", "moy": ["13.19", "", ""] },
+      { "ETB": "UNIV. MSILA", "moy": ["10.10", "", ""] }
+    ]
+  },
+  {
+    "filiere": "LANGUE TURQUE",
+    "ETBs": [
+      {
+        "ETB": "UNIV. SCI ISLAMIQUES EMIR (E.A.K)",
+        "moy": ["13.19", "14.05", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP SNVECOLE SUPERIEURE AGRONOMIQUE DE\rMOSTAGANEM",
+    "ETBs": [
+      {
+        "ETB": "ECOLE SUPERIEURE AGRONOMIQUE DE\rMOSTAGANEM",
+        "moy": ["13.01", "13.00", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "SCIENCES BIOLOGIQUES",
+    "ETBs": [{ "ETB": "UNIV. MOSTAGANEM", "moy": ["13.71", "--", ""] }]
+  },
+  {
+    "filiere": "ENERGIES RENOUVELABLES",
+    "ETBs": [
+      { "ETB": "UNIV. MSILA", "moy": ["13.27", "13.93", ""] },
+      { "ETB": "UNIV. OUARGLA", "moy": ["12.70", "13.32", ""] }
+    ]
+  },
+  {
+    "filiere": "HYDRAUCARBURES",
+    "ETBs": [{ "ETB": "UNIV. OUARGLA", "moy": ["14.78", "15.50", ""] }]
+  },
+  {
+    "filiere": "SCIENCES DE L INFORMATION ET DE LA COMMUNICATION",
+    "ETBs": [{ "ETB": "UNIV. OUARGLA", "moy": ["12.05", "13.31", "13.57"] }]
+  },
+  {
+    "filiere": "HYDROBIOLOGIE MARINE ET CONTINENTALE",
+    "ETBs": [{ "ETB": "UNIV. OUARGLA", "moy": ["11.02", "12.03", ""] }]
+  },
+  {
+    "filiere": "CP STECOLE NATIONALE POLYTECHNIQUE D ORAN",
+    "ETBs": [
+      {
+        "ETB": "ECOLE NATIONALE POLYTECHNIQUES D ORAN",
+        "moy": ["16.48", "17.30", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP SECSGECOLE SUPERIEURE DE D’ECONOMIE D’ORAN",
+    "ETBs": [
+      { "ETB": "ECOLE SUPERIEURE D ECONOMIE D ORAN", "moy": ["14.74", "", ""] }
+    ]
+  },
+  {
+    "filiere": "CP SNVECOLE SUPERIEURE DES SCIENCES BIOLOGIQUES\rD’ORAN",
+    "ETBs": [
+      {
+        "ETB": "ECOLE SUPERIEURE DES SCIENCES\rBIOLOGIQUES D ORAN",
+        "moy": ["14.35", "15.37", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP STECOLE SUPERIEURE EN GENIE ELECTRIQUE ET\rENERGETIQUE D ORAN",
+    "ETBs": [
+      {
+        "ETB": "ECOLE SUPERIEURE EN GENIE ELECTRIQUE ET\rENERGETIQUE D ORAN",
+        "moy": ["15.56", "16.35", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "GENIE MARITIME",
+    "ETBs": [{ "ETB": "U.S.T.O. (ORAN)", "moy": ["12.90", "13.53", ""] }]
+  },
+  {
+    "filiere": "GENIE BIOMEDICALE",
+    "ETBs": [{ "ETB": "UNIV. ORAN 1", "moy": ["15.48", "16.25", ""] }]
+  },
+  {
+    "filiere": "GENIE INDUSTRIELLE",
+    "ETBs": [{ "ETB": "UNIV. ORAN 2", "moy": ["13.00", "14.01", ""] }]
+  },
+  {
+    "filiere": "ELECTRONIQUE",
+    "ETBs": [
+      { "ETB": "UNIV BORDJ BOU ARRERIDJ", "moy": ["13.52", "14.20", ""] }
+    ]
+  },
+  {
+    "filiere": "HYDROCARBURES",
+    "ETBs": [
+      { "ETB": "UNIV. BOUMERDES", "moy": ["16.11", "16.91", ""] },
+      { "ETB": "UNIV. BOUMERDES", "moy": ["16.11", "16.94", ""] }
+    ]
+  },
+  {
+    "filiere": "ELECTRONIQUE (ENSEIGNEMENT EN LANGUE ANGLAISE)",
+    "ETBs": [{ "ETB": "UNIV. BOUMERDES", "moy": ["16.64", "17.47", ""] }]
+  },
+  {
+    "filiere": "AUTOMATIQUE",
+    "ETBs": [{ "ETB": "UNIV. BOUMERDES", "moy": ["15.32", "16.10", ""] }]
+  },
+  {
+    "filiere": "CP SNV ECOLE NATIONALE SUPERIEURE DES FORETS",
+    "ETBs": [
+      {
+        "ETB": "ECOLE NATIONALE SUPERIEURE DES FORETS\rKHENCHELA",
+        "moy": ["13.00", "13.17", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP SECSGECOLE DES HAUTES ETUDES\rCOMMERCIALESKOLEA",
+    "ETBs": [
+      {
+        "ETB": "ECOLE DES HAUTES ETUDES COMMERCIALES\rKOLEA",
+        "moy": ["15.77", "", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP SECSGECOLE NATIONALE SUPERIEURE EN STATISTIQUE\rET EN ECONOMIE APPLIQUEEKOLEA",
+    "ETBs": [
+      {
+        "ETB": "ECOLE NATIONALE SUP. EN STATISTIQUE ET\rEN ECONOMIQUE APPLIQUEE KOLEA",
+        "moy": ["14.92", "", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "CP SECSGECOLE SUPERIEURE DE COMMERCEKOLEA",
+    "ETBs": [
+      { "ETB": "ECOLE SUPERIEURE DE COMMERCE KOLEA", "moy": ["15.80", "", ""] }
+    ]
+  },
+  {
+    "filiere": "CP SECSGECOLE SUPERIEURE DE GESTION ET DE L\rECONOMIE NUMERIQUE – KOLEA",
+    "ETBs": [
+      {
+        "ETB": "ECOLE SUPERIEURE DE GESTION ET DE L\rECONOMIE NUMERIQUE – KOLEA",
+        "moy": ["15.50", "", ""]
+      }
+    ]
+  },
+  {
+    "filiere": "ARABE (P.E.P)",
+    "ETBs": [
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["13.02", "13.03", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["13.86", "14.60", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["13.95", "14.67", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.00", "14.74", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["13.82", "14.28", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["13.31", "14.03", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["13.62", "14.20", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["--", "13.11", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["13.55", "13.73", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.54", "14.23", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.55", "15.29", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.01", "13.19", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.05", "13.15", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.50", "14.26", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "14.64", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.90", "14.58", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.65", "14.27", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.78", "15.52", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.22", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.47", "16.41", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["13.93", "14.37", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.84", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.55", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.53", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.66", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.58", "16.12", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.22", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.53", "16.68", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.18", "15.81", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.09", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.34", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.67", "--", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["15.24", "16.57", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.79", "15.63", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.52", "15.37", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.63", "15.32", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["15.20", "15.91", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["14.66", "--", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["15.42", "16.79", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["15.18", "--", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["13.08", "13.14", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["14.01", "14.73", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["13.08", "13.12", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["14.53", "--", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["13.60", "14.46", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["13.86", "14.88", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["15.27", "15.83", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["13.95", "14.89", ""] }
+    ]
+  },
+  {
+    "filiere": "FRANCAIS (P.E.P)",
+    "ETBs": [
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.85", "14.00", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.02", "14.72", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.00", "14.09", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.04", "--", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["14.09", "--", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["14.52", "14.01", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["14.62", "14.32", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.15", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.56", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.87", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.11", "14.02", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.62", "15.45", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.00", "14.62", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.11", "15.14", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.91", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["14.33", "15.30", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.02", "15.78", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["14.73", "15.56", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.73", "15.48", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.71", "15.50", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["--", "15.04", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.26", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.14", "14.42", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.12", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.66", "15.37", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.61", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.38", "16.17", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.92", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.95", "15.76", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.84", "15.59", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["--", "14.28", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.02", "--", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["15.33", "14.28", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["15.01", "15.81", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.13", "14.57", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.23", "--", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.73", "--", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.47", "--", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["15.01", "--", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["14.02", "14.59", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["14.41", "15.20", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["14.52", "15.37", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["--", "15.07", ""] }
+    ]
+  },
+  {
+    "filiere": "LANGUE ET LITTERATURE ARABES (P.E.M)",
+    "ETBs": [
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.19", "14.73", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.43", "15.12", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.49", "15.25", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.57", "15.42", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.09", "--", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["14.07", "14.08", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["14.09", "14.50", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["--", "14.14", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["14.17", "14.00", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.38", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.19", "14.90", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.21", "15.85", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.50", "14.00", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.47", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.00", "14.62", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.04", "14.27", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.78", "16.09", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.39", "15.16", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.44", "15.06", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.97", "15.69", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.75", "15.48", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.08", "15.87", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.00", "14.64", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.60", "16.24", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["14.88", "15.68", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["14.00", "14.63", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.11", "15.87", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.16", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.04", "15.80", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.29", "15.15", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.25", "16.13", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.30", "16.08", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.20", "14.52", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.20", "15.98", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.78", "15.53", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.96", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.20", "15.97", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.57", "15.91", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["14.54", "15.25", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["15.10", "15.75", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["14.79", "15.60", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["--", "14.18", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["14.03", "14.60", ""] }
+    ]
+  },
+  {
+    "filiere": "LANGUE FRANCAISE (P.E.M)",
+    "ETBs": [
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.00", "14.16", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.33", "15.11", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.11", "14.41", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.66", "15.47", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.38", "15.16", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.98", "15.98", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.42", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.00", "14.59", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.59", "15.42", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.68", "15.43", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.26", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["14.80", "15.52", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.64", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.27", "16.14", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.16", "15.83", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.15", "16.00", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.52", "15.27", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.50", "16.53", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.12", "14.74", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.48", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.88", "15.65", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.18", "16.00", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.63", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.26", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.43", "16.23", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.30", "14.02", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.82", "15.55", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.18", "14.01", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.46", "14.45", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.08", "14.11", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["15.26", "16.38", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.23", "14.72", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.14", "14.98", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.08", "14.39", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["15.00", "16.05", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.11", "14.67", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.54", "--", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["15.43", "--", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["14.73", "15.32", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["14.82", "15.72", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["15.14", "15.71", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["14.00", "14.32", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["14.12", "14.12", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["--", "--", ""] }
+    ]
+  },
+  {
+    "filiere": "LANGUE ANGLAISE (P.E.M)",
+    "ETBs": [
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.43", "15.15", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.84", "16.50", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.28", "16.11", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.11", "15.83", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.91", "15.60", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.07", "14.93", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.30", "14.65", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.79", "16.00", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["16.24", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.04", "15.77", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["16.04", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "15.43", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.38", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["16.05", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.06", "15.89", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.79", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.02", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.09", "15.70", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.14", "15.42", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.41", "15.18", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.22", "15.76", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "15.31", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.67", "16.41", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.43", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.75", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.62", "15.23", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.59", "15.74", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["16.35", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.08", "16.43", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.76", "16.52", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.55", "16.32", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.72", "16.59", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.44", "16.43", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.84", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.26", "14.52", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.24", "15.79", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.25", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.18", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.78", "16.53", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.14", "15.82", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.88", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.69", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.44", "16.18", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.75", "16.29", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["14.96", "15.55", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["14.20", "14.71", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["14.38", "15.23", ""] }
+    ]
+  },
+  {
+    "filiere": "HISTOIREGEOGRAPHIE (P.E.M)",
+    "ETBs": [
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.27", "14.97", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.47", "15.47", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.41", "15.14", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.75", "15.50", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["--", "14.21", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["--", "14.02", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.09", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.08", "15.88", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.03", "14.98", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.84", "15.52", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "14.03", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.27", "14.60", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.57", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.00", "14.52", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.07", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.80", "16.62", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.76", "15.65", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.57", "15.28", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.48", "15.27", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.95", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.36", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.70", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.04", "15.86", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.21", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.11", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.78", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.12", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["14.20", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.81", "16.19", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["14.15", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.14", "15.93", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.32", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["14.31", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.44", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.00", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.33", "15.03", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.23", "16.12", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.03", "15.83", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.17", "14.27", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.11", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.73", "15.40", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.84", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.29", "16.05", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.96", "15.75", ""] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES NATURELLES (P.E.M)",
+    "ETBs": [
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.14", "", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.55", "", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.19", "", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.58", "", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.78", "", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.63", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.72", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.25", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.67", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.63", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.16", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.91", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.07", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.43", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.79", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.78", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.78", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.79", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.53", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.45", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.90", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.87", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.07", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.02", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.05", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.03", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.70", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.35", "", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.65", "", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.43", "", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.22", "", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.40", "", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.12", "", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.21", "", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.07", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.97", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.94", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.88", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.84", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.95", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.42", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.31", "", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["15.16", "", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["14.98", "", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["15.21", "", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["14.63", "", ""] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES EXACTES (P.E.M)",
+    "ETBs": [
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.47", "15.20", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.91", "15.80", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.82", "15.54", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.33", "16.12", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["14.34", "15.06", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["14.75", "15.52", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["14.34", "15.48", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["15.32", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.90", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.89", "15.69", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.79", "15.57", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.03", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "14.12", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.19", "14.75", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.72", "15.45", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.22", "16.19", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.80", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.75", "15.57", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.76", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.52", "16.35", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.90", "15.53", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.35", "16.14", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.05", "15.74", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.47", "16.11", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.26", "16.10", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.34", "16.13", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.58", "16.33", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.43", "16.56", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.62", "16.64", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.26", "15.97", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.62", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.92", "--", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["15.01", "15.78", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["15.91", "--", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["15.35", "16.18", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["14.19", "14.87", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["14.69", "15.42", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["14.02", "14.03", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["14.84", "15.62", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["14.91", "--", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["15.14", "15.97", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["16.14", "--", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["16.00", "--", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["15.92", "--", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["15.20", "--", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["16.36", "--", ""] }
+    ]
+  },
+  {
+    "filiere": "LANGUE ET LITTERATURE ARABES (P.E.S)",
+    "ETBs": [
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.61", "15.11", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.25", "15.86", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.76", "15.84", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.02", "15.74", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.31", "14.14", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["14.52", "--", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["14.25", "14.80", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["14.12", "14.65", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["14.28", "14.95", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.82", "16.77", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.24", "15.06", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.22", "16.10", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.31", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.81", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.54", "15.30", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.75", "15.48", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.93", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.14", "15.90", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.78", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["--", "15.79", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.45", "16.22", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.44", "16.28", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["16.12", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.43", "16.17", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.70", "15.40", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.46", "16.32", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.87", "16.55", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.57", "15.30", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.14", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.00", "15.67", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.23", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.94", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.67", "16.05", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.04", "14.00", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["15.70", "16.62", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.72", "15.42", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.02", "14.12", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["16.02", "--", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.85", "15.20", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["15.51", "16.43", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["15.43", "16.23", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["14.77", "15.55", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["14.15", "14.80", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["15.87", "15.54", ""] }
+    ]
+  },
+  {
+    "filiere": "LANGUE FRANCAISE (P.E.S)",
+    "ETBs": [
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.89", "15.57", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.31", "16.13", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.04", "15.91", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.68", "16.47", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.63", "15.22", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.79", "16.20", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.91", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.61", "15.34", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.93", "15.83", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.13", "16.45", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.63", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["14.87", "15.72", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.77", "16.62", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.53", "16.37", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.84", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.09", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.72", "15.47", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.46", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.04", "15.14", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.66", "16.47", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.38", "16.20", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.25", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.21", "16.97", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.85", "16.84", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.78", "16.51", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["15.26", "16.02", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["16.16", "16.92", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.91", "15.66", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["14.50", "15.11", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["15.49", "--", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["15.69", "16.56", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["15.96", "16.70", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["15.38", "16.15", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["15.50", "16.10", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["14.22", "14.85", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["15.02", "15.69", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["14.69", "15.38", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["14.12", "--", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["--", "14.70", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["14.53", "15.07", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["14.77", "15.37", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["15.31", "--", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["15.22", "16.03", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["15.00", "15.18", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["15.24", "16.09", ""] }
+    ]
+  },
+  {
+    "filiere": "LANGUE ANGLAISE (P.E.S)",
+    "ETBs": [
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.15", "15.88", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["16.84", "17.09", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["16.87", "--", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["16.21", "--", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["16.18", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.48", "16.35", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["16.42", "17.18", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["16.12", "15.03", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["16.38", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.51", "16.32", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.67", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.70", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["16.06", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.63", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["16.14", "16.93", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["16.39", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["16.19", "17.03", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["16.18", "17.17", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.08", "16.68", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.75", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.96", "16.28", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.59", "17.43", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.95", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.91", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.91", "16.66", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.75", "17.31", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.80", "17.61", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.04", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.20", "16.84", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["16.37", "16.55", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["--", "16.56", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["15.89", "16.68", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["16.17", "16.78", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["16.75", "17.79", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["14.46", "--", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["15.66", "--", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["16.15", "--", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["16.02", "17.49", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["15.63", "17.29", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["15.72", "16.43", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["16.66", "--", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["15.72", "16.72", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["15.22", "--", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["16.29", "17.26", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["15.18", "16.02", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["16.80", "18.59", ""] },
+      { "ETB": "E.N.S ORAN", "moy": ["16.70", "17.72", ""] }
+    ]
+  },
+  {
+    "filiere": "HISTOIREGEOGRAPHIE (P.E.S)",
+    "ETBs": [
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.88", "15.57", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.02", "15.74", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.03", "15.70", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.30", "16.08", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.31", "--", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["14.23", "14.07", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.54", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.43", "16.21", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.30", "15.03", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.25", "16.13", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.00", "14.62", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.86", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.46", "15.22", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.97", "15.82", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "14.42", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["16.08", "16.76", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.98", "15.78", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.94", "15.52", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.12", "14.42", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "14.22", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.06", "15.57", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.88", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.95", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.12", "15.78", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.20", "--", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.32", "15.42", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.43", "15.11", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["16.07", "16.27", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.54", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["14.61", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.58", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["14.85", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.47", "16.16", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["14.32", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.39", "--", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.44", "16.62", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["15.95", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.17", "16.15", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.89", "15.38", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.45", "16.13", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.86", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.20", "15.27", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.63", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.91", "15.68", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.23", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.52", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.49", "16.25", ""] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES NATURELLES (P.E.S)",
+    "ETBs": [
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.90", "", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["16.26", "", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.86", "", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["16.52", "", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["16.25", "", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.37", "", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.21", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.76", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.40", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.72", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.42", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.75", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.67", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.07", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.34", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.58", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.04", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.19", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.42", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.85", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.85", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.13", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.97", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.16", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.30", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.25", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.16", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.23", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.62", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.60", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.52", "", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.17", "", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.78", "", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.50", "", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.25", "", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.52", "", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.37", "", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.35", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.47", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.50", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.21", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.35", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.45", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.45", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.53", "", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["16.10", "", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["15.97", "", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["15.98", "", ""] }
+    ]
+  },
+  {
+    "filiere": "SCIENCES EXACTES (P.E.S)",
+    "ETBs": [
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.30", "16.03", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.97", "17.12", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.66", "16.92", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.98", "--", ""] },
+      { "ETB": "E.N.S. LAGHOUAT", "moy": ["15.46", "16.22", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["15.41", "16.11", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["16.27", "16.34", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["15.59", "--", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["--", "14.43", ""] },
+      { "ETB": "E.N.S. BECHAR", "moy": ["15.89", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.53", "16.56", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.39", "16.17", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.41", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.84", "15.43", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.19", "15.91", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.52", "16.27", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "15.85", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.26", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.09", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.73", "17.60", ""] },
+      { "ETB": "E.N.S. SETIF", "moy": ["16.24", "17.17", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.71", "16.43", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.05", "16.74", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.17", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.24", "16.95", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.16", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.01", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.00", "16.50", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.08", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.05", "16.97", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.83", "16.58", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.52", "--", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["16.52", "--", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["16.91", "--", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["15.44", "16.28", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["15.98", "--", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["15.39", "16.57", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["16.77", "--", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["16.15", "--", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["15.29", "15.83", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["16.24", "--", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["16.76", "16.45", ""] },
+      { "ETB": "E.N.S MOSTAGANEM", "moy": ["16.65", "--", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["16.02", "17.20", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["16.96", "--", ""] },
+      { "ETB": "E.N.S. BOU SAADA", "moy": ["15.79", "--", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["15.10", "15.77", ""] },
+      { "ETB": "E.N.S. OUARGLA", "moy": ["15.42", "16.12", ""] }
+    ]
+  },
+  {
+    "filiere": "MUSIQUE (P.E.M)",
+    "ETBs": [
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.70", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.29", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.28", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.63", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["11.89", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.91", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.24", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.36", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.91", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.92", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.41", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.25", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.22", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.94", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.78", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.43", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.59", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.48", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.82", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.26", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["11.95", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.62", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.86", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.24", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.93", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.77", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.38", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.15", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.85", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.76", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.68", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.92", "", ""] }
+    ]
+  },
+  {
+    "filiere": "MUSIQUE (P.E.S)",
+    "ETBs": [
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.95", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.08", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.45", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.62", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.62", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.67", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.03", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.69", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.70", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.60", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.20", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.13", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.29", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.62", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.31", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.71", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.58", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.32", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.99", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.04", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.30", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.21", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.64", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.75", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["13.46", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.96", "", ""] }
+    ]
+  },
+  {
+    "filiere": "INFORMATIQUE (P.E.S)",
+    "ETBs": [
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.57", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.53", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.59", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["17.35", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.59", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.69", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["17.66", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.17", "15.56", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.79", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "16.37", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.47", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.83", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.89", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.17", "15.94", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.16", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.49", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.25", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["17.33", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.00", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.15", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.57", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.70", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.02", "16.08", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.69", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.22", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["17.10", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.88", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "15.57", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.25", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.61", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.14", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.23", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["17.32", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.97", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.55", "16.23", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.95", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.92", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.36", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.47", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.77", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["16.58", "--", ""] }
+    ]
+  },
+  {
+    "filiere": "INFORMATIQUE (P.E.M)",
+    "ETBs": [
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.38", "14.20", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.46", "16.08", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.20", "14.73", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "14.64", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.16", "15.89", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "14.44", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "14.05", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.89", "15.64", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.65", "14.35", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.10", "14.85", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.01", "15.80", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "14.16", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "14.61", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.36", "16.11", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.10", "15.77", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.26", "15.92", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.06", "15.25", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "14.57", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "15.38", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.50", "15.11", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.29", "15.84", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["14.17", "14.77", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.28", "15.58", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "14.12", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "14.17", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["--", "14.65", ""] },
+      { "ETB": "E.N.S. KOUBA (E.N.S)", "moy": ["15.28", "15.98", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.95", "15.18", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "15.53", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "14.59", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.93", "15.63", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.53", "14.78", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.28", "14.78", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.19", "15.75", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.11", "15.53", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.28", "14.36", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.43", "15.00", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.02", "15.58", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.62", "15.30", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.90", "15.64", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["--", "14.08", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.64", "15.22", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.12", "15.57", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.42", "15.22", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.02", "15.81", ""] }
+    ]
+  },
+  {
+    "filiere": "LANGUE AMAZIGHE (P.E.P)",
+    "ETBs": [
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.79", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.68", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.92", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.00", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.05", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.57", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.74", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["11.30", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.67", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.09", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.90", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.65", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["12.33", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.25", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.25", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.66", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.20", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.43", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.40", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.94", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.62", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.87", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.42", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.50", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.87", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.26", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.47", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.78", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["10.43", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.26", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.83", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.11", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.58", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.19", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["12.68", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["11.95", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.74", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["12.28", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.44", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.89", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.69", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.31", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.83", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.26", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.13", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.52", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.82", "", ""] }
+    ]
+  },
+  {
+    "filiere": "PHILOSOPHIE (P.E.S)",
+    "ETBs": [
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.81", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.60", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.90", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.92", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.02", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.29", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.69", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.44", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.59", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.97", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.35", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.76", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.76", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.63", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.24", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.17", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.22", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.71", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.80", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.93", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.28", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["15.02", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["14.90", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.98", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.94", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["13.24", "", ""] },
+      { "ETB": "E.N.S. BOUZAREAH (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.82", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.31", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.37", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.63", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["13.07", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.15", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.02", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.48", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.26", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.16", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.19", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.05", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["15.81", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.98", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.36", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["--", "", ""] },
+      { "ETB": "E.N.S. CONSTANTINE (E.N.S)", "moy": ["14.20", "", ""] }
+    ]
+  },
+  {
+    "filiere": "TECHNIQUE (P.E.S) OPTION : GENIE MECANIQUE",
+    "ETBs": [
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.18", "15.92", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "15.53", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.03", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.18", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.64", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.71", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.80", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.61", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.68", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.06", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.81", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.91", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.85", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.75", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.15", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.34", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.67", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.58", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.20", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.02", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.11", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.62", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] }
+    ]
+  },
+  {
+    "filiere": "TECHNIQUE (P.E.S) OPTION : GENIE CIVIL ",
+    "ETBs": [
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.46", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.03", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.74", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.66", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["17.04", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.35", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.73", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.35", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.65", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.27", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.44", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.24", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["17.39", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.80", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["17.39", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.32", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["17.06", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.48", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.82", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.45", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.28", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.79", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.26", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.73", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.52", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.70", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.39", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.83", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.82", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.73", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["17.04", "--", ""] }
+    ]
+  },
+  {
+    "filiere": "TECHNIQUE (P.E.S) OPTION : GENIE ELECTRIQUE",
+    "ETBs": [
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.85", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.19", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.35", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.94", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.16", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.38", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.32", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["17.11", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.09", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.41", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.05", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.23", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.68", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.58", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.65", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.32", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.02", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.93", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.21", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.80", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.55", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.01", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.92", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["17.39", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.35", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.35", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.94", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.88", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.12", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.03", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.39", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.83", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.15", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] }
+    ]
+  },
+  {
+    "filiere": "TECHNIQUE (P.E.S) OPTION : GENIE DES PROCEDES",
+    "ETBs": [
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.94", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.67", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.05", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.34", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.94", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.20", "16.03", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.23", "16.13", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.70", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.30", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.28", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.29", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.38", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.47", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "15.33", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.30", "16.23", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.88", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.03", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.99", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["14.00", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["--", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["15.38", "--", ""] },
+      { "ETB": "E.N.S. SKIKDA (E.N.S.E.T)", "moy": ["16.02", "--", ""] }
+    ]
+  },
+  {
+    "filiere": "SAGE FEMME DE SANTE PUBLIQUE ",
+    "ETBs": [
+      { "ETB": "INFSSF TLEMCEN", "moy": ["12.12", "12.87", ""] },
+      { "ETB": "INFSSF TLEMCEN", "moy": ["15.25", "--", ""] },
+      { "ETB": "INFSSF TLEMCEN", "moy": ["11.77", "12.86", ""] },
+      { "ETB": "INFSSF TLEMCEN", "moy": ["12.57", "13.74", ""] },
+      { "ETB": "INFSSF TLEMCEN", "moy": ["9.91", "10.72", ""] },
+      { "ETB": "INFSSF TLEMCEN", "moy": ["15.97", "17.31", ""] },
+      { "ETB": "INFSSF TLEMCEN", "moy": ["14.98", "--", ""] },
+      { "ETB": "INFSSF TLEMCEN", "moy": ["14.10", "15.29", ""] },
+      { "ETB": "INFSSF TLEMCEN", "moy": ["14.56", "--", ""] },
+      { "ETB": "INFSSF TLEMCEN", "moy": ["14.48", "15.28", ""] },
+      { "ETB": "INFSSF TLEMCEN", "moy": ["15.20", "--", ""] },
+      { "ETB": "INFSSF TLEMCEN", "moy": ["14.71", "15.45", ""] },
+      { "ETB": "INFSSF TLEMCEN", "moy": ["13.41", "14.13", ""] },
+      { "ETB": "INFSSF TLEMCEN", "moy": ["11.33", "11.61", ""] },
+      { "ETB": "INFSSF TLEMCEN", "moy": ["13.03", "13.85", ""] },
+      { "ETB": "INFSSF TLEMCEN", "moy": ["13.11", "14.77", ""] },
+      { "ETB": "INFSSF TLEMCEN", "moy": ["15.16", "--", ""] },
+      { "ETB": "INFSSF TLEMCEN", "moy": ["14.90", "--", ""] },
+      { "ETB": "INFSSF TIZI OUZOU", "moy": ["14.31", "--", ""] },
+      { "ETB": "INFSSF TIZI OUZOU", "moy": ["14.53", "--", ""] },
+      { "ETB": "INFSSF TIZI OUZOU", "moy": ["14.18", "15.41", ""] },
+      { "ETB": "INFSSF TIZI OUZOU", "moy": ["14.77", "16.08", ""] },
+      { "ETB": "INFSSF TIZI OUZOU", "moy": ["14.28", "15.50", ""] },
+      { "ETB": "INFSSF TIZI OUZOU", "moy": ["13.94", "--", ""] },
+      { "ETB": "INFSSF TIZI OUZOU", "moy": ["14.87", "15.64", ""] },
+      { "ETB": "INFSSF TIZI OUZOU", "moy": ["14.65", "15.41", ""] },
+      { "ETB": "INFSSF TIZI OUZOU", "moy": ["14.17", "15.02", ""] },
+      { "ETB": "INFSSF TIZI OUZOU", "moy": ["14.44", "15.96", ""] },
+      { "ETB": "INFSSF TIZI OUZOU", "moy": ["9.83", "11.61", ""] },
+      { "ETB": "INFSSF TIZI OUZOU", "moy": ["14.42", "15.26", ""] },
+      { "ETB": "INFSSF TIZI OUZOU", "moy": ["13.45", "14.14", ""] },
+      { "ETB": "INFSSF TIZI OUZOU", "moy": ["14.96", "15.97", ""] },
+      { "ETB": "INFSSF TIZI OUZOU", "moy": ["13.40", "14.22", ""] },
+      { "ETB": "INFSSF ANNABA", "moy": ["15.14", "--", ""] },
+      { "ETB": "INFSSF ANNABA", "moy": ["15.57", "16.40", ""] },
+      { "ETB": "INFSSF ANNABA", "moy": ["13.90", "15.38", ""] },
+      { "ETB": "INFSSF ANNABA", "moy": ["14.90", "16.08", ""] },
+      { "ETB": "INFSSF ANNABA", "moy": ["15.21", "16.28", ""] },
+      { "ETB": "INFSSF ANNABA", "moy": ["15.38", "--", ""] },
+      { "ETB": "INFSSF ANNABA", "moy": ["15.53", "--", ""] },
+      { "ETB": "INFSSF ANNABA", "moy": ["15.35", "--", ""] },
+      { "ETB": "INFSSF ANNABA", "moy": ["15.17", "--", ""] },
+      { "ETB": "INFSSF ANNABA", "moy": ["14.15", "--", ""] },
+      { "ETB": "INFSSF ANNABA", "moy": ["15.23", "--", ""] },
+      { "ETB": "INFSSF ANNABA", "moy": ["14.23", "--", ""] },
+      { "ETB": "INFSSF ANNABA", "moy": ["15.16", "--", ""] },
+      { "ETB": "INFSSF ANNABA", "moy": ["15.41", "--", ""] },
+      { "ETB": "INFSSF ANNABA", "moy": ["14.93", "--", ""] }
+    ]
+  },
+  {
+    "filiere": "INFIRMIER DE SANTE PUBLIQUE",
+    "ETBs": [
+      { "ETB": "INFSPM ADRAR", "moy": ["11.44", "12.15", ""] },
+      { "ETB": "INFSPM ADRAR", "moy": ["9.50", "--", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["14.22", "--", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["15.23", "--", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["13.85", "14.72", ""] },
+      { "ETB": "INFSPM BEJAIA", "moy": ["13.07", "13.97", ""] },
+      { "ETB": "INFSPM BISKRA", "moy": ["13.67", "14.48", ""] },
+      { "ETB": "INFSPM BISKRA", "moy": ["13.32", "14.10", ""] },
+      { "ETB": "INFSPM BECHAR", "moy": ["10.80", "11.38", ""] },
+      { "ETB": "INFSPM BECHAR", "moy": ["9.54", "9.74", ""] },
+      { "ETB": "INFSPM BLIDA", "moy": ["13.91", "14.76", ""] },
+      { "ETB": "INFSPM BLIDA", "moy": ["13.10", "14.53", ""] },
+      { "ETB": "INFSPM BOUIRA", "moy": ["13.68", "14.95", ""] },
+      { "ETB": "INFSPM TEBESSA", "moy": ["13.77", "14.52", ""] },
+      { "ETB": "INFSPM TEBESSA", "moy": ["13.77", "--", ""] },
+      { "ETB": "INFSPM TIARET", "moy": ["11.67", "12.54", ""] },
+      { "ETB": "INFSPM TIARET", "moy": ["14.25", "15.25", ""] },
+      { "ETB": "INFSPM TIARET", "moy": ["12.90", "13.59", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["13.67", "14.42", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["13.90", "14.83", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["13.68", "14.62", ""] },
+      { "ETB": "INFSPM JIJEL", "moy": ["14.62", "16.47", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.00", "15.88", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["14.25", "15.41", ""] },
+      { "ETB": "INFSPM SAIDA", "moy": ["13.68", "14.59", ""] },
+      { "ETB": "INFSPM SAIDA", "moy": ["12.52", "13.27", ""] },
+      { "ETB": "INFSPM SAIDA", "moy": ["12.05", "--", ""] },
+      { "ETB": "INFSPM SKIKDA", "moy": ["14.62", "16.25", ""] },
+      { "ETB": "INFSPM SKIKDA", "moy": ["13.78", "16.03", ""] },
+      { "ETB": "INFSPM SKIKDA", "moy": ["13.65", "14.71", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["14.07", "15.12", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["14.37", "15.37", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["14.93", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["14.97", "--", ""] },
+      { "ETB": "INFSPM MEDEA", "moy": ["14.51", "15.22", ""] },
+      { "ETB": "INFSPM MOSTAGANEM", "moy": ["13.55", "14.36", ""] },
+      { "ETB": "INFSPM MOSTAGANEM", "moy": ["13.48", "--", ""] },
+      { "ETB": "INFSPM MSILA", "moy": ["13.77", "15.18", ""] },
+      { "ETB": "INFSPM MSILA", "moy": ["13.97", "14.68", ""] },
+      { "ETB": "INFSPM MASCARA", "moy": ["14.48", "15.50", ""] },
+      { "ETB": "INFSPM MASCARA", "moy": ["14.26", "14.99", ""] },
+      { "ETB": "INFSPM OUARGLA", "moy": ["12.68", "13.36", ""] },
+      { "ETB": "INFSPM OUARGLA", "moy": ["9.62", "--", ""] },
+      { "ETB": "INFSPM OUARGLA", "moy": ["12.37", "13.05", ""] },
+      { "ETB": "INFSPM ORAN GUEABI DJEDIA", "moy": ["14.68", "15.59", ""] },
+      { "ETB": "INFSPM ORAN GUEABI DJEDIA", "moy": ["13.28", "14.36", ""] },
+      { "ETB": "INFSPM AIN DEFLA", "moy": ["14.57", "15.29", ""] },
+      { "ETB": "INFSPM AIN DEFLA", "moy": ["14.34", "15.16", ""] }
+    ]
+  },
+  {
+    "filiere": "MANIPULATEUR EN IMAGERIE MEDICALE DE SANTE\rPUBLIQUE ",
+    "ETBs": [
+      { "ETB": "INFSPM ADRAR", "moy": ["13.02", "13.73", ""] },
+      { "ETB": "INFSPM ADRAR", "moy": ["9.54", "10.67", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["15.19", "--", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["15.83", "16.67", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["15.08", "--", ""] },
+      { "ETB": "INFSPM BEJAIA", "moy": ["15.02", "16.17", ""] },
+      { "ETB": "INFSPM BEJAIA", "moy": ["14.92", "15.75", ""] },
+      { "ETB": "INFSPM BEJAIA", "moy": ["15.40", "--", ""] },
+      { "ETB": "INFSPM BISKRA", "moy": ["14.83", "--", ""] },
+      { "ETB": "INFSPM BISKRA", "moy": ["14.22", "--", ""] },
+      { "ETB": "INFSPM BECHAR", "moy": ["12.35", "13.06", ""] },
+      { "ETB": "INFSPM BECHAR", "moy": ["11.02", "--", ""] },
+      { "ETB": "INFSPM BLIDA", "moy": ["14.93", "16.50", ""] },
+      { "ETB": "INFSPM BLIDA", "moy": ["14.44", "15.20", ""] },
+      { "ETB": "INFSPM TEBESSA", "moy": ["14.42", "--", ""] },
+      { "ETB": "INFSPM TEBESSA", "moy": ["14.66", "--", ""] },
+      { "ETB": "INFSPM TIARET", "moy": ["13.21", "14.31", ""] },
+      { "ETB": "INFSPM TIARET", "moy": ["14.83", "16.10", ""] },
+      { "ETB": "INFSPM TIARET", "moy": ["14.68", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["14.23", "15.39", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.15", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.03", "16.05", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["13.12", "14.00", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.88", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.07", "--", ""] },
+      { "ETB": "INFSPM SAIDA", "moy": ["14.75", "15.77", ""] },
+      { "ETB": "INFSPM SAIDA", "moy": ["13.80", "--", ""] },
+      { "ETB": "INFSPM SKIKDA", "moy": ["15.42", "--", ""] },
+      { "ETB": "INFSPM SKIKDA", "moy": ["14.98", "16.09", ""] },
+      { "ETB": "INFSPM SKIKDA", "moy": ["14.73", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["15.06", "16.34", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.17", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.52", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.63", "--", ""] },
+      { "ETB": "INFSPM MEDEA", "moy": ["15.18", "16.29", ""] },
+      { "ETB": "INFSPM MOSTAGANEM", "moy": ["15.40", "--", ""] },
+      { "ETB": "INFSPM MOSTAGANEM", "moy": ["14.55", "15.67", ""] },
+      { "ETB": "INFSPM MSILA", "moy": ["14.84", "--", ""] },
+      { "ETB": "INFSPM MSILA", "moy": ["15.07", "15.97", ""] },
+      { "ETB": "INFSPM MASCARA", "moy": ["15.12", "--", ""] },
+      { "ETB": "INFSPM MASCARA", "moy": ["15.03", "16.31", ""] },
+      { "ETB": "INFSPM OUARGLA", "moy": ["13.90", "--", ""] },
+      { "ETB": "INFSPM OUARGLA", "moy": ["9.52", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["15.53", "16.57", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["14.67", "15.40", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["13.75", "14.50", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["14.72", "15.69", ""] },
+      { "ETB": "INFSPM AIN DEFLA", "moy": ["14.82", "15.59", ""] }
+    ]
+  },
+  {
+    "filiere": "HYGIENISTE DE SANTE PUBLIQUE",
+    "ETBs": [
+      { "ETB": "INFSPM BATNA", "moy": ["14.95", "--", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["14.30", "--", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["15.12", "--", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["14.00", "--", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["14.85", "--", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["13.65", "14.29", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["15.08", "--", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["15.00", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.33", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.43", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["9.85", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["15.36", "16.29", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["14.40", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["14.65", "15.21", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["14.05", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["10.20", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["13.73", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["14.60", "--", ""] }
+    ]
+  },
+  {
+    "filiere": "PREPARATEUR EN PHARMACIE DE SANTE PUBLIQUE",
+    "ETBs": [
+      { "ETB": "INFSPM BATNA", "moy": ["15.08", "--", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["16.27", "--", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["15.31", "--", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["14.63", "--", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["13.42", "15.03", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["9.75", "--", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["13.91", "14.51", ""] },
+      { "ETB": "INFSPM BATNA", "moy": ["15.17", "16.02", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["14.95", "16.23", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.26", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.55", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["9.59", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.44", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.77", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["14.86", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.45", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.12", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.41", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.74", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["13.75", "16.71", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["11.55", "12.95", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["15.45", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["15.95", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["15.69", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["14.61", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["14.32", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["14.97", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["15.07", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.95", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.22", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.67", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.03", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.15", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.54", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.53", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.44", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["14.50", "15.62", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.31", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.78", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["15.83", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["13.90", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["11.55", "12.67", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["15.75", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["14.23", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["14.57", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["16.17", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["14.97", "15.45", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["11.35", "--", ""] }
+    ]
+  },
+  {
+    "filiere": "LABORANTIN DE SANTE PUBLIQUE",
+    "ETBs": [
+      { "ETB": "INFSPM BLIDA", "moy": ["10.88", "11.59", ""] },
+      { "ETB": "INFSPM BLIDA", "moy": ["15.48", "--", ""] },
+      { "ETB": "INFSPM BLIDA", "moy": ["14.47", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["14.88", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["10.44", "11.13", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["14.13", "15.26", ""] },
+      { "ETB": "INFSPM SKIKDA", "moy": ["15.12", "--", ""] },
+      { "ETB": "INFSPM SKIKDA", "moy": ["14.87", "16.91", ""] },
+      { "ETB": "INFSPM SKIKDA", "moy": ["16.03", "--", ""] },
+      { "ETB": "INFSPM SKIKDA", "moy": ["15.34", "--", ""] },
+      { "ETB": "INFSPM SKIKDA", "moy": ["15.19", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["13.43", "14.13", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["12.46", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["15.34", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["13.17", "14.48", ""] }
+    ]
+  },
+  {
+    "filiere": "DIETETICIEN DE SANTE PUBLIQUE",
+    "ETBs": [
+      { "ETB": "INFSPM ALGER", "moy": ["14.46", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["9.50", "9.78", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.03", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.55", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["14.01", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["13.07", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["10.49", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["13.48", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.43", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.68", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["14.53", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.47", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.70", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["14.97", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.38", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["14.93", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["13.25", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.45", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.20", "--", ""] },
+      { "ETB": "INFSPM CONSTANTINE", "moy": ["15.45", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["11.37", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["15.52", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["11.71", "13.09", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["14.57", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["14.86", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["14.95", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["13.70", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["14.65", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["13.93", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["14.95", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["15.77", "--", ""] }
+    ]
+  },
+  {
+    "filiere": "ERGOTHERAPEUTE DE SANTE PUBLIQUE",
+    "ETBs": [
+      { "ETB": "INFSPM ALGER", "moy": ["14.47", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["14.77", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.71", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.98", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["12.12", "14.88", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["14.87", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.21", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.86", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["14.53", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["9.95", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.95", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.20", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.78", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.90", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.85", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["16.02", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.82", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.58", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.33", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.94", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["16.48", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.68", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.28", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["16.07", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.47", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.73", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["14.63", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.77", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.48", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["14.60", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["12.72", "13.02", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["16.15", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["11.68", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["15.71", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["16.22", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["16.10", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["16.21", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["15.10", "15.93", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["14.40", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["16.06", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["14.67", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["15.23", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["10.76", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["14.93", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["14.28", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["14.80", "--", ""] },
+      { "ETB": "INFSPM SIDI BEL ABBES", "moy": ["15.72", "--", ""] }
+    ]
+  },
+  {
+    "filiere": "KINESITHERAPEUTES DE SANTE PUBLIQUE",
+    "ETBs": [
+      { "ETB": "INFSPM ALGER", "moy": ["14.83", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["9.88", "14.59", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["16.14", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.73", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.66", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["14.87", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["9.93", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["14.73", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.93", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.09", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.04", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.10", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.88", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["16.17", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["16.00", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.68", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.55", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["15.79", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["11.95", "13.05", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["11.82", "15.95", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["15.18", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["15.49", "16.45", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["15.33", "16.47", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["9.92", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["15.17", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["15.02", "15.41", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["15.67", "--", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["15.79", "--", ""] }
+    ]
+  },
+  {
+    "filiere": "OPTICIEN LUNETIER DE SANTE PUBLIQUE ",
+    "ETBs": [
+      { "ETB": "INFSPM ALGER", "moy": ["13.33", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["13.30", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.17", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["14.20", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["14.39", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["13.48", "14.02", ""] }
+    ]
+  },
+  {
+    "filiere": "PSYCHOMOTRICIEN DE SANTE PUBLIQUE",
+    "ETBs": [
+      { "ETB": "INFSPM ALGER", "moy": ["14.59", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["13.97", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.62", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.22", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["13.85", "14.48", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.27", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["14.08", "--", ""] }
+    ]
+  },
+  {
+    "filiere": "APPAREILLEURS ORTHOPEDISTES DE SANTE PUBLIQUE",
+    "ETBs": [
+      { "ETB": "INFSPM ALGER", "moy": ["14.48", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["13.81", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.16", "16.09", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["13.48", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["14.62", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["13.80", "--", ""] }
+    ]
+  },
+  {
+    "filiere": "ORTHOPTISTE DE SANTE PUBLIQUE",
+    "ETBs": [
+      { "ETB": "INFSPM ALGER", "moy": ["16.38", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["12.98", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.78", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.42", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["15.29", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["14.95", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["14.47", "--", ""] },
+      { "ETB": "INFSPM ALGER", "moy": ["14.08", "--", ""] }
+    ]
+  },
+  {
+    "filiere": "ASSISTANT SOCIAL DE SANTE PUBLIQUE",
+    "ETBs": [
+      { "ETB": "INFSPM SETIF", "moy": ["14.41", "--", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["14.16", "14.85", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["14.30", "14.90", ""] },
+      { "ETB": "INFSPM SETIF", "moy": ["14.18", "14.96", ""] },
+      { "ETB": "INFSPM MSILA", "moy": ["13.63", "14.52", ""] },
+      { "ETB": "INFSPM MSILA", "moy": ["14.34", "15.79", ""] },
+      { "ETB": "INFSPM MSILA", "moy": ["14.09", "--", ""] },
+      { "ETB": "INFSPM MSILA", "moy": ["13.21", "13.85", ""] },
+      { "ETB": "INFSPM MSILA", "moy": ["12.99", "15.12", ""] },
+      { "ETB": "INFSPM OUARGLA", "moy": ["11.84", "12.37", ""] },
+      { "ETB": "INFSPM OUARGLA", "moy": ["11.23", "11.07", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["13.15", "14.28", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["12.96", "13.61", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["13.46", "14.12", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["12.66", "12.56", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["13.48", "13.84", ""] },
+      { "ETB": "INFSPM ORAN HAI SALAM", "moy": ["14.89", "--", ""] }
+    ]
+  }
+]

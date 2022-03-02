@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>التخصصات الجامعية</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="main.js" defer></script>
+    <link
+      rel="stylesheet"
+      href="../tools/fontawesome-free-6.0.0-web/css/all.min.css"
+    />
+  </head>
+  <body>
+    <!-- start  header -->
+    <header id="top">
+      <a href="#menu"><i class="fa-solid fa-bars"></i> </a>
+      <div class="logo">
+        <img src="images/logo2.png" alt="" />
+        <span>جامعتي</span>
+      </div>
+      <ul id="menu">
+        <a href="../index.html"><li>الرئيسية</li></a>
+        <a href="#"><li>التخصصات</li></a>
+        <li>الجامعات</li>
+        <li>معدلات القبول</li>
+        <li>فرص ومنح</li>
+        <a href="../About/index.html"><li>من نحن</li></a>
+      </ul>
+      <div class="socialMedia"></div>
+    </header>
+    <!-- End  header  -->
+    <div class="sContainer">
+      <h1>بيانات تفصيلية عن التخصصات في الجامعات</h1>
+      <div class="search">
+        <form action="" method="get">
+          <div>
+            <div class="input">
+              <label for="University">اختر الولايات: </label>
+              <input list="Universities" name="University" id="University" />
+              <datalist id="Universities">
+                <option value="University XXXX"></option>
+                <option value="University XXXX"></option>
+                <option value="University XXXX"></option>
+                <option value="University XXXX"></option>
+                <option value="University XXXX"></option>
+              </datalist>
+            </div>
+            <div class="states">
+              <span>first</span>
+              <span>first</span>
+              <span>first</span>
+            </div>
+          </div>
+
+          <div class="input">
+            <label for="Division">اختر الشعبة </label>
+            <select name="Division" value="hi" id="Division">
+              <option value="Division 1">Division 1</option>
+              <option value="Division 2">Division 2</option>
+              <option selected="selected" value="Division 3">Division 3</option>
+              <option value="Division 4">Division 4</option>
+            </select>
+          </div>
+
+          <div class="input">
+            <label for="minAv">أدنى معدل: </label>
+            <input type="number" name="min" min="9" max="19" id="minAv" />
+          </div>
+
+          <div class="input">
+            <label for="minAv">أقصى معدل: </label>
+            <input type="number" name="min" min="9" max="20" id="minAv" />
+          </div>
+
+          <input type="submit" value="عرض النتائج" />
+        </form>
+      </div>
+
+      <table class="mainT">
+        <thead>
+          <tr>
+            <th rowspan="2" colspan="2">التخصص</th>
+            <th rowspan="2">الجامعة</th>
+            <th rowspan="2">الولاية</th>
+            <th colspan="9">معدلات القبول في السنوات الأخيرة</th>
+          </tr>
+          <tr>
+            <th colspan="3" >2021</th>
+            <th colspan="3">2020</th>
+            <th colspan="3">2019</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="show"><i class="fa-solid fa-plus"></i></td>
+            <td>
+              <a href="../jArticle0/index.html"
+                >CP SNVECOLE SUPERIEURE DES SCIENCES BIOLOGIQUES D’ORAN</a
+              >
+            </td>
+            <td>ECOLE SUPERIEURE EN GENIE ELECTRIQUE ET ENERGETIQUE D ORAN</td>
+            <td>OUARGLA</td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+          </tr>
+
+          <tr class="gInfo">
+            <td></td>
+
+            <td colspan="5">
+              <table>
+                <tr>
+                  <td>وصف التخصص :</td>
+                  <td>
+                    يهدف التخصص إلى تخريج الكوادر المؤهلة في دراسة وتصميم
+                    المشاريع والبنى التحتية مثل المباني والطرقات وشبكات المياه
+                    والمجاري والجسور والأنفاق والسدود والسكك الحديدية
+                  </td>
+                </tr>
+                <tr>
+                  <td>مجالات العمل :</td>
+                  <td>
+                    مشاريع البنية التحتية في الطرق والمطارات والجسور والأنفاق
+                    والأبنية والمياه والمجاري مهندس تنفيذي أو مهندس إشراف
+                    الاستشارات الهندسية والمكاتب الهندسية
+                  </td>
+                </tr>
+              </table>
+            </td>
+
+            <td></td>
+          </tr>
+
+          <tr>
+            <td class="show"><i class="fa-solid fa-plus"></i></td>
+            <td>CP SNVECOLE SUPERIEURE DES SCIENCES BIOLOGIQUESD’ORAN</td>
+            <td>ECOLE SUPERIEURE EN GENIE ELECTRIQUE ET ENERGETIQUE D ORAN</td>
+            <td>OUARGLA</td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+          </tr>
+          <tr>
+            <td class="show"><i class="fa-solid fa-plus"></i></td>
+            <td>CP SNVECOLE SUPERIEURE DES SCIENCES BIOLOGIQUES D’ORAN</td>
+            <td>ECOLE SUPERIEURE EN GENIE ELECTRIQUE ET ENERGETIQUE D ORAN</td>
+            <td>OUARGLA</td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+          </tr>
+          <tr>
+            <td class="show"><i class="fa-solid fa-plus"></i></td>
+            <td>CP SNVECOLE SUPERIEURE DES SCIENCES BIOLOGIQUES D’ORAN</td>
+            <td>ECOLE SUPERIEURE EN GENIE ELECTRIQUE ET ENERGETIQUE D ORAN</td>
+            <td>OUARGLA</td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+          </tr>
+          <tr>
+            <td class="show"><i class="fa-solid fa-plus"></i></td>
+            <td>CP SNVECOLE SUPERIEURE DES SCIENCES BIOLOGIQUES D’ORAN</td>
+            <td>ECOLE SUPERIEURE EN GENIE ELECTRIQUE ET ENERGETIQUE D ORAN</td>
+            <td>OUARGLA</td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+          </tr>
+          <tr>
+            <td class="show"><i class="fa-solid fa-plus"></i></td>
+            <td>CP SNVECOLE SUPERIEURE DES SCIENCES BIOLOGIQUES D’ORAN</td>
+            <td>ECOLE SUPERIEURE EN GENIE ELECTRIQUE ET ENERGETIQUE D ORAN</td>
+            <td>OUARGLA</td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+          </tr>
+          <tr>
+            <td class="show"><i class="fa-solid fa-plus"></i></td>
+            <td>CP SNVECOLE SUPERIEURE DES SCIENCES BIOLOGIQUES D’ORAN</td>
+            <td>ECOLE SUPERIEURE EN GENIE ELECTRIQUE ET ENERGETIQUE D ORAN</td>
+            <td>OUARGLA</td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+          </tr>
+          <tr>
+            <td class="show"><i class="fa-solid fa-plus"></i></td>
+            <td>CP SNVECOLE SUPERIEURE DES SCIENCES BIOLOGIQUES D’ORAN</td>
+            <td>ECOLE SUPERIEURE EN GENIE ELECTRIQUE ET ENERGETIQUE D ORAN</td>
+            <td>OUARGLA</td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+          </tr>
+          <tr>
+            <td class="show"><i class="fa-solid fa-plus"></i></td>
+            <td>CP SNVECOLE SUPERIEURE DES SCIENCES BIOLOGIQUES D’ORAN</td>
+            <td>ECOLE SUPERIEURE EN GENIE ELECTRIQUE ET ENERGETIQUE D ORAN</td>
+            <td>OUARGLA</td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+          </tr>
+          <tr>
+            <td class="show"><i class="fa-solid fa-plus"></i></td>
+            <td>CP SNVECOLE SUPERIEURE DES SCIENCES BIOLOGIQUES D’ORAN</td>
+            <td>ECOLE SUPERIEURE EN GENIE ELECTRIQUE ET ENERGETIQUE D ORAN</td>
+            <td>OUARGLA</td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+          </tr>
+          <tr>
+            <td class="show"><i class="fa-solid fa-plus"></i></td>
+            <td>CP SNVECOLE SUPERIEURE DES SCIENCES BIOLOGIQUES D’ORAN</td>
+            <td>ECOLE SUPERIEURE EN GENIE ELECTRIQUE ET ENERGETIQUE D ORAN</td>
+            <td>OUARGLA</td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+          </tr>
+          <tr>
+            <td class="show"><i class="fa-solid fa-plus"></i></td>
+            <td>CP SNVECOLE SUPERIEURE DES SCIENCES BIOLOGIQUES D’ORAN</td>
+            <td>ECOLE SUPERIEURE EN GENIE ELECTRIQUE ET ENERGETIQUE D ORAN</td>
+            <td>OUARGLA</td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+          </tr>
+          <tr>
+            <td class="show"><i class="fa-solid fa-plus"></i></td>
+            <td>CP SNVECOLE SUPERIEURE DES SCIENCES BIOLOGIQUES D’ORAN</td>
+            <td>ECOLE SUPERIEURE EN GENIE ELECTRIQUE ET ENERGETIQUE D ORAN</td>
+            <td>OUARGLA</td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+            <td>13,23 </td>
+            <td>13,53 </td>
+            <td>13,93 </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Footer Start  -->
+    <footer>
+      <div class="sContainer">
+        <div class="icons">
+          <a href="#"><i class="fa-brands fa-youtube"></i></a>
+          <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+          <a href="#"><i class="fa-brands fa-instagram"></i></a>
+          <a href="#"><i class="fa-solid fa-envelope"></i></a>
+        </div>
+        <h5>© 2022 موقع جامعتي</h5>
+      </div>
+    </footer>
+    <a href="#top" class="Scroll-Top"><i class="fa-solid fa-angle-up"></i> </a>
+
+    <!-- Footer End  -->
+  </body>
+</html>
